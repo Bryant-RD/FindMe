@@ -1,0 +1,704 @@
+[
+        {
+                "numero_grupo": "148",
+                "nombre": "Grupo Scout Club deLeones #148",
+                "horario": "3:00 PM a 6:00PM",
+                "lugar_reunion": "Club de Alma Rosa Primero",
+                "historia": "El grupo Scout 148 Se fundo el 23 de marzo del 2010, en le parque Juan Pablo II en la Av. Venezuela. Quienes: Luis Sans, Denisse Castillo, Damián, Yelissa Hidalgo, Miguel Ernesto Nolasco, Patrick Espino, Agustín Peralta, Diana Sosa y Aimé Aybar",
+                "significado_panoleta": "Marrón= Humildad y Crema= Confianza",
+                "ramas": [
+                        "manada",
+                        "tropa",
+                        "Caminantes"
+                ],
+                "patrullas_tropa": [
+                        "Tigres Blancos",
+                        "Ornitorinco",
+                        "Lobo"
+                ],
+                "comunidad_caminantes": "Comunidad Anacona",
+                "clan": "Clan Montesino",
+                "tradiciones": "Como grupo, anualmente vamos a las actividades de la semana scout, el día de reyes llevamos regalos a niños huérfanos y nos presentamos todos los años en el día familiar scout, en Santiago",
+                "imagen_panoleta": null,
+                "logo_manada": null,
+                "logo_tropa": null,
+                "logo_caminantes": null,
+                "logo_clan": null,
+                "logo_grupo": null
+        },
+        {
+                "numero_grupo": "24",
+                "nombre": null,
+                "horario": "3:00 PM",
+                "lugar_reunion": "Escuela parroquial San José obrero",
+                "historia": null,
+                "significado_panoleta": "Blanco pureza, amarillo para dar luz",
+                "ramas": [
+                        "tropa"
+                ],
+                "patrullas_tropa": null,
+                "comunidad_caminantes": null,
+                "clan": null,
+                "tradiciones": "Si, porque nos gusta siempre aprender de nuevas experiencias",
+                "imagen_panoleta": null,
+                "logo_manada": null,
+                "logo_tropa": null,
+                "logo_caminantes": null,
+                "logo_clan": null,
+                "logo_grupo": null
+        },
+        {
+                "numero_grupo": "03",
+                "nombre": null,
+                "horario": "3:00 PM a 5:00PM",
+                "lugar_reunion": "estadio Julian Javier",
+                "historia": "Mikail Campos y Rafael Dgo. Hernandez",
+                "significado_panoleta": "El azul el mar. El verde la naturaleza, rojo sangre de los Patriotas, amarillo la arena de mar",
+                "ramas": [
+                        "manada",
+                        "tropa",
+                        "Clan"
+                ],
+                "patrullas_tropa": [
+                        "Tiburon",
+                        "Cuervo",
+                        "Lobo",
+                        "Ardilla"
+                ],
+                "comunidad_caminantes": null,
+                "clan": "Los Caciques",
+                "tradiciones": "Asistimos a todas las actividades",
+                "imagen_panoleta": "../img/pañoletas/G3.jpg",
+                "logo_manada": null,
+                "logo_tropa": null,
+                "logo_caminantes": null,
+                "logo_clan": null,
+                "logo_grupo": null
+        },
+        {
+                "numero_grupo": "88",
+                "nombre": "grupo scout Rotaract numero 88",
+                "horario": "3:00 PM a 6:00PM",
+                "lugar_reunion": "Luis Ginebra",
+                "historia": "Comenzo con la iniciativa del club de leones y la directiva fue elegida de entre los miembros , ya el grupo no realiza actividades o reuniones con ellos. Lo conformaron las actuales personas del comité de padres, Elaine santos, Lidia fría , doña linda..  ",
+                "significado_panoleta": "Rojo vino el color del cacao, el dorado el sol y el negro la tierra que nos nutre",
+                "ramas": [
+                        "manada",
+                        "tropa",
+                        "Caminante",
+                        "Clan"
+                ],
+                "patrullas_tropa": [
+                        "Toro",
+                        "Cuervo",
+                        "Pantera",
+                        "Manati",
+                        "Panda"
+                ],
+                "comunidad_caminantes": "Comunidad Enriquillo",
+                "clan": "Clan Camelot",
+                "tradiciones": "Si vamos algunos eventos nacionales no todos, los distritales casi no hacemos pero los pocos tambien intentamos ir",
+                "imagen_panoleta": "../img/Pañoletas/G88.jpg",
+                "logo_manada": null,
+                "logo_tropa": null,
+                "logo_caminantes": "",
+                "logo_clan": "../img/Logos/Clan_88.png",
+                "logo_grupo": null
+        },
+        {
+                "numero_grupo": "126",
+                "nombre": null,
+                "horario": "4:00 PM a 6:00PM",
+                "lugar_reunion": "Colegio Consa Los prados",
+                "historia": "D. Francisco Abreu comunica a D. Julio que había conseguido un joven voluntario del Ensanche Ozama, Juan Manuel Lopez, quien estaría dispuesto a iniciar como Dirigente. Y es así que avisados nuestros muchachos y muchachas y con el compromiso de invitar a sus amigos, un sábado, 17 de enero de 2004, empezamos a reunirnos en el patio trasero de CONSA. Iniciamos con un grupo heterogéneo en edades entre los 7 a 15 años de edad, algunos sin conocimiento previo del escultimo y otros quienes ya habían iniciado su vida scout en el hermano grupo 99. Son formadas las dos primeras patrullas Gavilán y Leopardo. A final de enero, día 31, y con mas integrantes ya invitados, es creada la Manada y una nueva patrulla Escorpión.",
+                "significado_panoleta": "Naturaleza, fuerza y energia",
+                "ramas": [
+                        "manada",
+                        "tropa",
+                        "Clan"
+                ],
+                "patrullas_tropa": [
+                        "Buho",
+                        "Cobra",
+                        "Lobo",
+                        "Escorpion"
+                ],
+                "comunidad_caminantes": "Asgard",
+                "clan": "Atabey",
+                "tradiciones": "Hacemos la fiesta de aniversario todos los años y cada 5 años hacemos un campamento o actividad especial, participamos en todas las actividades nacionles y distritales, no vamos todo el grupo pero siempre tratamos de que al menos un scout este alla representandonos.",
+                "imagen_panoleta": null,
+                "logo_manada": null,
+                "logo_tropa": null,
+                "logo_caminantes": "../img/Logos/Caminantes126.png",
+                "logo_clan": "../img/Logos/Clan_126.jpeg",
+                "logo_grupo": null
+        },
+        {
+                "numero_grupo": "99",
+                "nombre": "Grupo Scout 99 Baden Powell",
+                "horario": "4:00 PM a 6:00PM",
+                "lugar_reunion": null,
+                "historia": "Fundado en 1979 por Jonny Domínguez en el solar de Los Prados, en ese entonces los grupos scouts eran exclusivamente para hombres, mientras que los grupos de guías eran solo para mujeres. Sin embargo, el Grupo 99 Baden Powell rompió con esa tradición al ser uno de los pocos grupos mixtos, permitiendo la participación tanto de hombres como de mujeres. Esta apertura y diversidad en el grupo 99 Baden Powell sentó las bases para una experiencia inclusiva y enriquecedora para todos sus miembros.",
+                "significado_panoleta": "Amarillo: trabajo Negro: fortaleza",
+                "ramas": [
+                        "manada",
+                        "tropa",
+                        "Caminante",
+                        "Clan"
+                ],
+                "patrullas_tropa": [
+                        "Pantera",
+                        "Buho"
+                ],
+                "comunidad_caminantes": "Comunidad Erhania",
+                "clan": "Clan Urano",
+                "tradiciones": "El desarrollo de los jóvenes se amplía al explorar fuera de cada reunión los sábados. Al dedicar tiempo a actividades y experiencias diferentes, como excursiones, voluntariado o aprendizaje de nuevas habilidades, los jóvenes tienen la oportunidad de crecer y expandir sus horizontes más allá de las actividades regulares del grupo. Esta exploración les brinda la oportunidad de descubrir nuevos intereses, desarrollar habilidades sociales y emocionales, y fortalecer su autoconfianza mientras se divierten y se conectan con el mundo que les rodea. Participamos en actividades y eventos como: Punto de flecha Canapas Campamento nacional Actividades internacionales (jamboree, moot, campamentos ) Foros Huellas Lecheton",
+                "imagen_panoleta": "../img/Pañoletas/G99.jpg",
+                "logo_manada": null,
+                "logo_tropa": null,
+                "logo_caminantes": "../img/Logos/Caminantes 99.jpeg",
+                "logo_clan": null,
+                "logo_grupo": "../img/Logos/Grupo_99.png"
+        },
+        {
+                "numero_grupo": "48",
+                "nombre": "Grupo Scout 48 De La Salle",
+                "horario": "9:00 AM a 12:00AM",
+                "lugar_reunion": "Colegio De La Salle",
+                "historia": "El Grupo fue fundado el 17 marzo 1990; por el Hermano Agustín.",
+                "significado_panoleta": "El significado de nuestra pañoleta es: El amarillo simboliza la tierra fértil ( ya que el maíz era el producto por excelencia en la región a la llegada de los Españoles) Región Marien, y los colores azul y rojo son los colores que representan la hermandad Lasallista.",
+                "ramas": [
+                        "manada",
+                        "tropa",
+                        "Clan"
+                ],
+                "patrullas_tropa": [
+                        "Puma",
+                        "Cuyaya",
+                        "Lobo",
+                        "Cobra",
+                        "Rino",
+                        "Halcon"
+                ],
+                "comunidad_caminantes": null,
+                "clan": "Clan Hermano Agustin Enciso (CHAE)",
+                "tradiciones": "Hacer un campamento aniversario todos los años y dedicarlo a una persona que haya servido en el grupo, reconocer en ese campamento aniversario la familia scout del año, actividad navideña de cierre y despedida a los beneficiarios",
+                "imagen_panoleta": "../img/Pañoletas/G48.jpg",
+                "logo_manada": "../img/Logos/Manada48.png",
+                "logo_tropa": null,
+                "logo_caminantes": "",
+                "logo_clan": "../img/Logos/Clan_48.jpeg",
+                "logo_grupo": "../img/Logos/Grupo_48.png"
+        },
+        {
+                "numero_grupo": "92",
+                "nombre": "Grupo Scout 92 Santo Tomás de Aquino",
+                "horario": "3:00 PM",
+                "lugar_reunion": null,
+                "historia": "El grupo fue una iniciativa de antiguos scouts del grupo 10 ya adultos en coalición al grupo Scout 55 de Santiago. La universidad UCATECI con amor cedió el espacio para que las actividades scout pudieran existir",
+                "significado_panoleta": "Rojo:Corazón, Azul:Cielo, Amarillo:Sol 'El amor brilla alrededor del cielo'",
+                "ramas": [
+                        "manada",
+                        "tropa",
+                        "Caminantes",
+                        "Clan"
+                ],
+                "patrullas_tropa": null,
+                "comunidad_caminantes": "Comunidad de Gladiadores",
+                "clan": "Clan Axis Mundi",
+                "tradiciones": "Van a todas Nacionales y Distritales, y hacen cena navideña y de pasanoches",
+                "imagen_panoleta": null,
+                "logo_manada": null,
+                "logo_tropa": null,
+                "logo_caminantes": null,
+                "logo_clan": null,
+                "logo_grupo": null
+        },
+        {
+                "numero_grupo": "28",
+                "nombre": "Grupo Hatuey # 28 Baitoa",
+                "horario": "4:00 PM a 6:00PM",
+                "lugar_reunion": "Local del grupo",
+                "historia": "Bueno nuestro grupo lo formaron 3 jovenes que vieron un grupo scout y tomaron la iniciativa un 22 de febrero en el 1972",
+                "significado_panoleta": "Fondo rojo simboliza la sangre que nos une como hermanos scout, blanco la pureza de nuestro corazón y verde color de la naturaleza recordándonos que debemos cuidarla",
+                "ramas": [
+                        "tropa",
+                        "Clan"
+                ],
+                "patrullas_tropa": null,
+                "comunidad_caminantes": null,
+                "clan": "Los Titanes",
+                "tradiciones": "Somos un grupo muy apartado de las actividades del distrito ya que no nos tienen tan pendiente pues nosotros somos igual pues las actividades sólo toman en cuenta a los gripo del centro de la ciudad",
+                "imagen_panoleta": null,
+                "logo_manada": null,
+                "logo_tropa": null,
+                "logo_caminantes": null,
+                "logo_clan": null,
+                "logo_grupo": null
+        },
+        {
+                "numero_grupo": "193",
+                "nombre": "Grupo scout 193 San Jose de las montañas",
+                "horario": "2:30 PM a 6:00PM",
+                "lugar_reunion": "Iglesia San Jose",
+                "historia": "El grupo scout 193 fue formado el 19 de marzo del 2002 (aunque esta ficha no está confirmada) con el apoyo de Miguel Rodríguez, Fabiola Reyes este llevó el nombre San José de las montañas ya que el 19 de marzo es el día de San José, fue creado con las primeras patrullas halcón, jaguar, escorpión y tigre",
+                "significado_panoleta": "Azul cielo, amarillo rayos del sol, marrón fertilidad de la tierra",
+                "ramas": [
+                        "manada",
+                        "tropa",
+                        "Clan"
+                ],
+                "patrullas_tropa": [
+                        "Halcon",
+                        "Jaguar",
+                        "Escorpion",
+                        "Tigre",
+                        "Lobo",
+                        "Tiburon"
+                ],
+                "comunidad_caminantes": null,
+                "clan": "Clan del temblé (ich dien)",
+                "tradiciones": "El grupo suele ir a actividades disfrútales cómo punta de flechas y de más, también a campamentos nacionales, por lo regulares las tradiciones de nuestro grupo, son fogata en marzo, aguinaldo en diciembre y fogata de fin de año en diciembre también",
+                "imagen_panoleta": null,
+                "logo_manada": null,
+                "logo_tropa": null,
+                "logo_caminantes": null,
+                "logo_clan": null,
+                "logo_grupo": null
+        },
+        {
+                "numero_grupo": "41",
+                "nombre": "Grupo Scout 41 Instituto Iberia",
+                "horario": "9:00 AM a 12:00AM",
+                "lugar_reunion": "Instituto Iberia",
+                "historia": "Un Sábado de Verano del 2015, Sr. Víctor Martínez, Director del Instituto Iberia, se presentó a la regional Scout y preguntó que pasos debería dar la institución para poder formar un grupo Scout. En ese momento Sr. Jhonny Cruz le dio las indicaciones de que se necesitaba el lugar para realizar las reuniones así como los Dirigentes con los conocimientos necesarios del movimiento para dirigir al nuevo grupo así como la conformación del comité de Padres para acompañar al grupo. A principio de Agosto del mismo año Sr. Oliver Rodríguez y Sr. Jhonny Cruz visitan las instalaciones del colegio y pasaron por los cursos junto a la Profesora Yoenmy Valerio por los cursos de 3 a 8vo de primaria, motivando a los estudiantes a integrarse al nuevo grupo Scout que estaba formando el colegio. En ese momento algunos estudiantes se interesaron, se inscribieron aprox 45 jóvenes y se realizó la primera reunión de Padres, Sábado 12 Septiembre 2015. El Sábado 19 de Septiembre, se dio la primera reunión oficial del Grupo Scout 41, se inició con manada y tropa, 2 Patrullas y 3 Seisenas. El Dirigente fundador fue Oliver Rodríguez, Junto al comité de Padres del momento, desarrollaron el grupo. Jhonny Cruz fue el enlace entre el Instituto Iberia y el Distrito Scout",
+                "significado_panoleta": "Rojo: Fuerza del Corazón, Azul: Los Valores de los Scouts, Amarillo: Felicidad de tener familia y hermandad, Azul+Amarillo: ( Verde) Medio Ambiente",
+                "ramas": [
+                        "manada"
+                ],
+                "patrullas_tropa": null,
+                "comunidad_caminantes": null,
+                "clan": null,
+                "tradiciones": "Desarrollo de los Beneficiados en el conocimiento de las tradiciones Scouts, Socializar con Jóvenes de edades similares, compartiendo los mismos intereses, Fomentar el espíritu de sana competencia entre los grupos,  Apoyo al Movimiento Scouts a nivel nacional,  Ser multiplicador del mundo Scout y lograr hombres y mujeres de bien para la sociedad Dominicana.",
+                "imagen_panoleta": "../img/Pañoletas/Grupo41.jpg",
+                "logo_manada": null,
+                "logo_tropa": null,
+                "logo_caminantes": null,
+                "logo_clan": null,
+                "logo_grupo": null
+        },
+        {
+                "numero_grupo": "49",
+                "nombre": "Benigno Filomeno De Rojas G#49",
+                "horario": "2:30 PM a 6:00PM",
+                "lugar_reunion": "Parque constitucion",
+                "historia": "La historia del grupo scout 49 comienza en el año 1963 en una escuela llamada benigno Filomeno de Rojas que antiguamente era llamada Colombia frente a la catedral de Santiago donde hoy está el centro de cultura y arte, el grupo lleva en nombre de Benigno Filomeno de rojas por esta escuela en cuestión.",
+                "significado_panoleta": "VERDE: Naturaleza. AMARILLO: La tierra fértil del Cibao",
+                "ramas": [
+                        "manada",
+                        "tropa",
+                        "Clan"
+                ],
+                "patrullas_tropa": [
+                        "Buitre",
+                        "Colibri",
+                        "Gavilan",
+                        "Mapache",
+                        "Zorro"
+                ],
+                "comunidad_caminantes": null,
+                "clan": "Clan Aragon",
+                "tradiciones": "-Celebración día de las madres. -Celebración aniversario. -Celebración cena navideña. -Aguinaldo -Competencia de caretas. -Participación en actividades a las que lo invitan (Lecheton, etc.) -Tambien tradicion/costumbre era que cada año se hacia un cantito nuevo (ej el cantito de dame un 4, dame un 9...) y eso era tradicion porque cada año ese canto marcaba una generación.",
+                "imagen_panoleta": null,
+                "logo_manada": null,
+                "logo_tropa": null,
+                "logo_caminantes": null,
+                "logo_clan": null,
+                "logo_grupo": null
+        },
+        {
+                "numero_grupo": "44",
+                "nombre": "G.S #44 Padre Emiliano Tardif",
+                "horario": "2:00 PM a 6:00PM",
+                "lugar_reunion": "Colegio Padre Emiliano Tardif",
+                "historia": "La fundacion del grupo tuvo lugar en el colegio padre emiliano tardif, el 24 de abril del 2004, siendo el fundador Jose Luis Nuñez Matias.",
+                "significado_panoleta": "Amarillo: luz del sol, rojo: sangre derramada y verde: esperanza. La sangre derramada por los patriotas nos dio esperanza para ver la luz del sol.",
+                "ramas": [
+                        "manada",
+                        "tropa",
+                        "Clan"
+                ],
+                "patrullas_tropa": [
+                        "Toro",
+                        "Cuervo",
+                        "Lobo",
+                        "Liebre",
+                        "Ardilla"
+                ],
+                "seisenas": ["Roja", "Verde", "Azul", "Amarilla"],
+                "comunidad_caminantes": null,
+                "clan": "Los Caciques",
+                "tradiciones": "Fogata de aniversario, Campamento de grupo, Cena de navideña de grupo",
+                "imagen_panoleta": "../img/Pañoletas/G44.jpg",
+                "logo_manada": "../img/Logos/Manada_44.png",
+                "logo_tropa": null,
+                "logo_caminantes": null,
+                "logo_clan": "../img/Logos/Clan_44.png",
+                "logo_grupo": "../img/Logos/Logo_G44.png"
+        },
+        {
+                "numero_grupo": "46",
+                "nombre": "Grupo padre Segri #46",
+                "horario": "2:30 PM a 5:30PM",
+                "lugar_reunion": " Colegio sangrado corazón de Jesus",
+                "historia": "1996 , Sagrado corazon, fue fundado por sor Silvia Y el sr. Jhonny de ka 48",
+                "significado_panoleta": "Azul el cielo, amarillo La luz, rojo la sangre derramada por el Padre Segr",
+                "ramas": [
+                        "manada",
+                        "tropa",
+                        "Caminante"
+                ],
+                "patrullas_tropa": [
+                        "Chicui",
+                        "Delfin",
+                        "Puma",
+                        "Camaleon",
+                        "Leon",
+                        "Cobra",
+                        "Buho"
+                ],
+                "comunidad_caminantes": "Epsilon",
+                "clan": null,
+                "tradiciones": "Siempre asistimos porque es una manera pa que nuestros chicos se relacionen con otros grupos . Y en los mismos se nutren de nuevas informaciones",
+                "imagen_panoleta": null,
+                "logo_manada": null,
+                "logo_tropa": null,
+                "logo_caminantes": "../img/Logos/Caminantes46.png",
+                "logo_clan": null,
+                "logo_grupo": null
+        },
+        {
+                "numero_grupo": "68",
+                "nombre": "Grupo Scout Don Bosco #68",
+                "horario": "3:00 PM a 5:00PM",
+                "lugar_reunion": "Colegio Don Bosco, Moca",
+                "historia": "El grupo scout 68 nace con la idea de expandir el movimiento en la ciudad de Moca. Fue fundado por: Bienvenido Capellán, Dionisio Hernández, Rolando Santos, Dorian Villalba y Geovanny Alvarado en el año 2006, iniciando con reuniones en el Club Recreativo Moca, Inc.",
+                "significado_panoleta": "La pañoleta del Grupo #68 tiene 3 colores: negro, que representa fuerza, azul, que representa el cielo y rojo, que representa la sangre derramada por nuestros patriotas.",
+                "ramas": [
+                        "manada",
+                        "tropa",
+                        "Caminante",
+                        "Clan"
+                ],
+                "patrullas_tropa": [
+                        "Anaconda",
+                        "Suricata",
+                        "Orca",
+                        "Halcon",
+                        "Lobo"
+                ],
+                "comunidad_caminantes": "Comunidad de Caminantes Phoenix",
+                "clan": "Clan Sir Gawain",
+                "tradiciones": "Misa y fogata por el día del fundador, campamento de grupo entre los meses de junio-agosto, acampadas durante el año y cena navideña grupal. Asistimos a actividades tanto distritales y nacionales siempre que podamos porque nos ayuda a aprender, a conocer otros scouts y a estrechar lazos de amistad y hermandad scout.",
+                "imagen_panoleta": null,
+                "logo_manada": null,
+                "logo_tropa": null,
+                "logo_caminantes": null,
+                "logo_clan": null,
+                "logo_grupo": null
+        },
+        {
+                "numero_grupo": "42",
+                "nombre": null,
+                "horario": "9:00 AM los Domingos",
+                "lugar_reunion": "jardín botánico Santiago",
+                "historia": "Fundador; bolivar Antonio morel, club de los Reyes",
+                "significado_panoleta": "El azul es el manto de la virgen María, rojo la sangre derramada por los patriotas, blanco La Paz y el negro la guerra(Si te fijas el blanco cubre al negro, es decir que el significado es que La Paz está por encima de la guerra)",
+                "ramas": [
+                        "manada"
+                ],
+                "patrullas_tropa": null,
+                "comunidad_caminantes": null,
+                "clan": null,
+                "tradiciones": " participar y sobre todo conocer.",
+                "imagen_panoleta": "../img/Pañoletas/G42.jpg",
+                "logo_manada": null,
+                "logo_tropa": null,
+                "logo_caminantes": null,
+                "logo_clan": null,
+                "logo_grupo": null
+        },
+        {
+                "numero_grupo": "13",
+                "nombre": "Domingo Salvio",
+                "horario": "2:00 PM",
+                "lugar_reunion": "Techado del Dosa, ave. Monseñor Panal 12, Bo. Domingo Savio",
+                "historia": "Fundado el 17 de abril 1978, por el P. Fernando Jacob, como dirigentes: en la manada Hugo Helena, y en la Tropa estaban Julio Estrella y Francisco Vicente y en los rovers estaba Rafael Helena",
+                "significado_panoleta": "Mamey: color del fuego scout, azul color de cielo y verde de la Naturaleza",
+                "ramas": [
+                        "manada",
+                        "tropa"
+                ],
+                "patrullas_tropa": [
+                        "Ruiseñor",
+                        "Carpintero",
+                        "Lobo"
+                ],
+                "comunidad_caminantes": null,
+                "clan": null,
+                "tradiciones": "Aniversario , cena navideña, encuentro regional familiar, campamentos nacionales, cursos de adiestramiento",
+                "imagen_panoleta": null,
+                "logo_manada": null,
+                "logo_tropa": null,
+                "logo_caminantes": null,
+                "logo_clan": null,
+                "logo_grupo": "../img/Logos/Grupo_13.png"
+        },
+        {
+                "numero_grupo": "01",
+                "nombre": "Grupo scout marino número #1",
+                "horario": null,
+                "lugar_reunion": "Local del grupo",
+                "historia": "César de Win la bandera",
+                "significado_panoleta": "El verde significa naturaleza y el blanco paz",
+                "ramas": [
+                        "manada",
+                        "tropa",
+                        "Caminante"
+                ],
+                "patrullas_tropa": null,
+                "comunidad_caminantes": null,
+                "clan": null,
+                "tradiciones": "Unas de las tradiciones de nuestro grupo es tiro con arco y remo y canotaje y nosotros participamos en eventos nacionales como Distrital",
+                "imagen_panoleta": "../img/Pañoletas/G1.jpg",
+                "logo_manada": null,
+                "logo_tropa": null,
+                "logo_caminantes": null,
+                "logo_clan": null,
+                "logo_grupo": null
+        },
+        {
+                "numero_grupo": "02",
+                "nombre": "Grupo Scout #2 - Fray Paulino Dominguez",
+                "horario": "7:00PM",
+                "lugar_reunion": " casas aleatorias de los miembros",
+                "historia": "El grupo tiene 25 años desde su fundacion, los fundadores fueron Fray Paulino Dominguez y Susana Smith, el local se encuentra en la Iglesia Epifania del Señor en Villa Carmen",
+                "significado_panoleta": "La pañoleta tiene los colores rojo, amarillo y verde, el rojo simbolizando la pasion del clan, el amarillo la alegria de la manada y el verde la aventura de la tropa y la naturaleza",
+                "ramas": [
+                        "Clan"
+                ],
+                "patrullas_tropa": null,
+                "comunidad_caminantes": null,
+                "clan": "Servidores Descalzos",
+                "tradiciones": "El grupo participa activamente de las actividades nacionales e internacionales que competan a las ramas que se encuentren activas en el momento",
+                "imagen_panoleta": "../img/Pañoletas/G2.jpg",
+                "logo_manada": null,
+                "logo_tropa": null,
+                "logo_caminantes": null,
+                "logo_clan": null,
+                "logo_grupo": "../img/Logos/Grupo_2.jpg"
+        },
+        {
+                "numero_grupo": "16",
+                "nombre": "Omar Vinicio Garcia #16",
+                "horario": "4:00 PM a 6:00PM",
+                "lugar_reunion": "parque municipal de Licey al Medio",
+                "historia": "Fue fundada el 30 de diciembre de 1968",
+                "significado_panoleta": "Verde: significa la naturaleza, Azul: el cielo , Mamey: la fertilidad de la tierra",
+                "ramas": [
+                        "manada",
+                        "tropa",
+                        "Caminante"
+                ],
+                "patrullas_tropa": [
+                        "Cuyaya",
+                        "Aguila",
+                        "Zumbador"
+                ],
+                "comunidad_caminantes": "Pablo de Tarso",
+                "clan": null,
+                "tradiciones": "Solemos ir a las pasadías porque son muy divertidas y hacen actividades y dinámicas muy emocionantes y conciertos también. También participamos en las fogatas para poder conocer los diferentes grupos de nuestro distrito.",
+                "imagen_panoleta": "../img/Pañoletas/G16.jpg",
+                "logo_manada": null,
+                "logo_tropa": null,
+                "logo_caminantes": null,
+                "logo_clan": null,
+                "logo_grupo": "../img/Logos/Grupo_16.jpg"
+        },
+        {
+                "numero_grupo": "23",
+                "nombre": " Pestalozzi",
+                "horario": "3:00 PM a 5:30PM",
+                "lugar_reunion": "Colegio Pestalozzi, Jardines del Este. San Pedro de Macorís.",
+                "historia": "El grupo 23 nace hace en diciembre del 1998, fundado por Bolívar Sosa a raíz de llevar el escultismo a los jóvenes de San Pedro de Macorís junto a la participación de Grisbeer Díaz, su esposa. Desde entonces el grupo ha permanecido activo, anteriormente bajo el nombre JAHA (José Alejandro Hazim Azar) y ahora Pestalozzi. Actualmente cuenta con todas las ramas activas.",
+                "significado_panoleta": "Color caqui: pureza, color amarillo: el sol, color rojo: la sangre derramada por nuestros patriotas",
+                "ramas": [
+                        "manada",
+                        "tropa",
+                        "Caminante",
+                        "Clan"
+                ],
+                "patrullas_tropa": [
+                        "Pantera",
+                        "Avejas",
+                        "Halcones"
+                ],
+                "comunidad_caminantes": "LEXSO",
+                "clan": "Clan Fénix",
+                "tradiciones": "Como tradiciones tenemos nuestro campamento de verano CIBAYERI, anualmente. La bicicletada grupal a diferentes destinos, anualmente. Pasadía grupal por aniversario en diciembre, anualmente.",
+                "imagen_panoleta": "../img/Pañoletas/G23.jpg",
+                "logo_manada": null,
+                "logo_tropa": null,
+                "logo_caminantes": null,
+                "logo_clan": "../img/Logos/Clan_23.png",
+                "logo_grupo": "../img/Logos/Grupo_23.jpeg"
+        },
+        {
+                "numero_grupo": "55",
+                "nombre": "Rafael Valdivieso Jr #55",
+                "horario": "2:00 PM a 6:00PM",
+                "lugar_reunion": "Oficina Scout Nacional Santiago",
+                "historia": "El G55 fue formado en el año 1963 en Santiago, Realizaba sus reuniones cerca del parque Colón en la calle del Sol. Luego en los 1990 fue trasladado al Colegio Duarte, y en el 2008 fue nuevamente trasladado a la Oficina Scout Nacional Santiago, donde en la actualidad siguen sus actividades.",
+                "significado_panoleta": "Verde, Rojo y Amarillo. 'Cuando se ama a la naturaleza, el sol Brilla'",
+                "ramas": [
+                        "manada",
+                        "tropa",
+                        "Clan"
+                ],
+                "patrullas_tropa": [
+                        "Tiburon",
+                        "Caiman",
+                        "Escorpion",
+                        "Cobra",
+                        "Lobo",
+                        "Puma",
+                        "Cuerbvo",
+                        "Colibri",
+                        "Leon",
+                        "Halcon",
+                        "Aguila"
+                ],
+                "comunidad_caminantes": null,
+                "clan": "Clan Rover Enriquillo",
+                "tradiciones": "El grupo Scout #55, suele participar en todos los eventos Distritales y/o Nacionales, ya que siempre ha estado motivado en conocer nuevos hermanos Scouts y vivir nuevas experiencias!",
+                "imagen_panoleta": "../img/Pañoletas/G55.jpg",
+                "logo_manada": null,
+                "logo_tropa": null,
+                "logo_caminantes": null,
+                "logo_clan": "../img/Logos/Clan_55.jpg",
+                "logo_grupo": "../img/Logos/Grupo_55.jpg"
+        },
+        {
+                "numero_grupo": "97",
+                "nombre": "Grupo Ramón Max Espinal #97",
+                "horario": "2:00 PM a 7:00PM",
+                "lugar_reunion": "Local scout San Jose de las Matas",
+                "historia": "Nota de interés: Estos datos no reflejan necesariamente toda la generalidad de los Scouts en Sajoma, sino; de lo que puede ser considerado más importantes, extraídos de distintas fuentes conversadas. Tampoco son una controversia con aportaciones fidedignas, provenientes de otros dirigentes y hermanos Scouts. Alguien, También Evangélico y por la invitación.. impartió una charla en el Club Centro Serrano de esta, entre 1953, o 1956 acerca del Escultismo-Scouts. Esto trajo consigo la formación de un grupo de jóvenes y que salió de excursión a Carrizal, o Rincón de Piedras; al terminársele la comida, se separaron y extraviaron. Esto fue un dolor de cabeza para muchos padres, pues eran tiempos muy delicados al ser la era de Trujillo y que se podía pensar cualquier cosa. De la misma época, en la página 29 del Álbum del Recuerdo del 160 Aniversario de la fundación de la parroquia, hay una fotografía, como registro del primer Grupo de Scouts de Sajoma. Visten el uniforme oficial escolar de época: Amarillo Caqui , estilo militar-camisa y pantalón largos con gorro; para más apariencia militar, con cinturón y espolainas, hechos por ellos; con cuchillo de cazador. Para 1959/63, volvió a surgir el grupo. Todo fue un gran éxito. Nuestras promesas Scouts fue al final de abril; seguida de los Sub-Guías.El 19 de enero 1968 en una Corte de Honor por botación unánime la Tropa toma el nombre de Anacaona, Así nació la Tropa Anacaona en honor a esa reina indígena nuestra y de las patrullas: Toro, Gallo, Paloma, Cucú, Ruiseñor, La Mía. Nació un compromiso duro para cada uno de nosotros y para todo el que quería ser Scout “Vivir la promesa Scout y la ley siendo el mejor hijo; el mejor estudiante y buen ciudadano”. El Grupo fue registrado bajo el número 97 Sajoma. De la Región Marién. Con pañoleta única y oficial registrada. Fue ideada por Olivo y confeccionada por su madre. Tiene los colores de nuestra bandera Nacional. Fondo en tela azul, rodeada de una cinta blanca y debajo otra cinta roja; al medio una mata en representación local y arriba una flor de liz , todos bordados. Estos bordados fueron hechos por varias damas y muchachas del pueblo. Nuestra bandera con tamaño normal, era de igual color y simbolismo que nuestra pañoleta.",
+                "significado_panoleta": "Rojo: sangre. Azul: Cielo. Blanco: Paz.",
+                "ramas": [
+                        "manada",
+                        "tropa",
+                        "Clan"
+                ],
+                "patrullas_tropa": [
+                        "Gaviota",
+                        "Cuervo",
+                        "Lobo"
+                ],
+                "comunidad_caminantes": null,
+                "clan": "Caonabo",
+                "tradiciones": "cada vez que se nos presenta la oportunidad intentamos participar de las actividades que nos ofrece la asociación de scouts dominicanos, simple a los chicos les emociona compartir con el resto de grupos y obtener nuevos aprendizajes, al ser un grupo alejado las actividades así son un gran apoyo para nosotros en la socialización y compañerismo.",
+                "imagen_panoleta": "../img/Pañoletas/G97.jpg",
+                "logo_manada": null,
+                "logo_tropa": null,
+                "logo_caminantes": null,
+                "logo_clan": "../img/Logos/Clan_97.png",
+                "logo_grupo": "../img/Logos/Grupo_97.jpg"
+        },
+        {
+                "numero_grupo": "34",
+                "nombre": "Grupo Scout Escuela Santo Hermano Miguel De La Salle #34",
+                "horario": "3:00 PM a 6:00PM",
+                "lugar_reunion": "Escuela Santo Hermano Miguel De La Salle, El Ejido, Santiago de los Caballeros, Rep. Dominicana",
+                "historia": "Fundado el 24 de septiembre de 1965 por un grupo de rovers encabezado por el hermano de la Salle José Palcampos, el grupo Scout #34 es de los más antiguos de la ciudad de Santiago, con casi 60 años en servicio a la comunidad del barrio de El Ejido, la cual siempre a mostrado aprecio y gratitud hacia el grupo.",
+                "significado_panoleta": "Naranja: pureza, rojo: sangre derramada por los patriotas, amarillo y negro: hermanos de la Salle",
+                "ramas": [
+                        "manada",
+                        "tropa",
+                        "Clan"
+                ],
+                "patrullas_tropa": [
+                        "Pantera",
+                        "Leon",
+                        "Aguila",
+                        "Escorpion"
+                ],
+                "comunidad_caminantes": null,
+                "clan": "Clan Rover José Pal Campos",
+                "tradiciones": "Anualmente, el grupo realiza un campamento en conmemoración de la fundación del mismo.",
+                "imagen_panoleta": "../img/Pañoletas/G34.jpg",
+                "logo_manada": null,
+                "logo_tropa": null,
+                "logo_caminantes": null,
+                "logo_clan": null,
+                "logo_grupo": "../img/Logos/Grupo_34.png"
+        },
+        {
+                "numero_grupo": "210",
+                "nombre": "Salles G210",
+                "horario": "9:00 AMM a 12:00AM",
+                "lugar_reunion": " la Incumalada Fe y Alegria",
+                "historia": "El grupo salles G210 fue creado el 29 de septiembre del 2018, empezamos con el grupo con un total 81 beneficiarios con 8 patrulla de 8 y 2 patrulla de 9. Formado por la Minert y dirigido por Mercedes Vázquez, atreves de la escuela hicieron reunión de padres para dar conocimiento de que es ser scouts.",
+                "significado_panoleta": "Blanco es La Paz, el azul es el cielo, rojo la sangre derramada por Jesus, el morado la flor de lis",
+                "ramas": [
+                        "tropa",
+                        "Caminante",
+                        "Clan"
+                ],
+                "patrullas_tropa": [
+                        "Caiman",
+                        "Escorpion",
+                        "Jaguar"
+                ],
+                "comunidad_caminantes": "Argentumdraco",
+                "clan": null,
+                "tradiciones": "Lechetón limpieza de playas,Campamentos nacionales Campamento grupal Para tener un mayor conocimiento de aprender cosas nuevas, lugares nuevos y personas nuevas",
+                "imagen_panoleta": "../img/Pañoletas/Grupo210.jpg",
+                "logo_manada": null,
+                "logo_tropa": null,
+                "logo_caminantes": null,
+                "logo_clan": null,
+                "logo_grupo": null
+        },
+        {
+                "numero_grupo": "106",
+                "nombre": "Grupo Scout Gloria Kunhardt, No.106",
+                "horario": "4:00 PM a 6:00PM",
+                "lugar_reunion": "Escuela Antera Mota",
+                "historia": null,
+                "significado_panoleta": "El amor y la paz se encuentran en la naturaleza",
+                "ramas": [
+                        "manada",
+                        "tropa",
+                        "Caminante",
+                        "Clan"
+                ],
+                "patrullas_tropa": [
+                        "Aguila",
+                        "Canario",
+                        "Lobo",
+                        "Tiburon",
+                        "Guacamayo",
+                        "Jaguar"
+                ],
+                "comunidad_caminantes": "Comunidad Martin Luther King, Jr.",
+                "clan": "Clan Meerut.",
+                "tradiciones": "Somos un grupo de respeto y tradición. Solemos apoyar eventos distritales y nacionales. Como grupo anualmente participamos en los desfiles, celebramos la semana scout, realizamos campamentos de grupo, fogatas ceremoniales, y fiesta navideña.",
+                "imagen_panoleta": "../img/Pañoletas/Grupo106.jpg",
+                "logo_manada": null,
+                "logo_tropa": null,
+                "logo_caminantes": null,
+                "logo_clan": null,
+                "logo_grupo":null
+        }
+]

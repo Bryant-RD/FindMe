@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="./img/LogoFindMe.png" type="image/x-icon">
+    <link rel="stylesheet" href="./css/main.css">
+    <script src="https://kit.fontawesome.com/537d56416d.js" crossorigin="anonymous"></script>
+    <title>Find Me</title>
+</head>
+
+<body>
+    <header>
+        <figure>
+            <img src="./img/LogoFindMe.png" style="max-height: 100px; object-fit: cover; width: 55px;" alt="Barcamp 2023">
+            <img src="./img/LogoFindMe.png" style="max-height: 100px; object-fit: cover; width: 55px;" alt="Barcamp 2023">
+        </figure>
+        <nav class="main-menu">
+            <ul>
+                <li><a href="#hero" class="nav-item nav-item-secondary">Inicio</a></li>
+                <li><a href="#about" class="nav-item nav-item-secondary">Acerca de</a></li>
+                <li><a href="#unconferences" class="nav-item nav-item-secondary">Desconferencias</a></li>
+                <li><a href="#speakers" class="nav-item nav-item-secondary">Charlistas</a></li>
+                <li><a href="#sponsors" class="nav-item nav-item-secondary">Patrocinadores</a></li>
+                <li><a href="javascript:;" class="nav-item nav-item-secondary conduct-button">Código de conducta</a></li>
+                <!-- <li><a target="_blank" href="https://webapp-st.pucmm.edu.do/RegistroEvento/EditInscripcionEvento.aspx?id=60" class="btn btn-solid-secondary btn-large sign-in"></a></li> -->
+
+            </ul>
+        </nav>
+        <!-- Toggle main menu button -->
+        <button class="btn-icon btn-solid-secondary btn-xsmall" id="openMenu">
+      <i class="icon-less"></i>
+    </button>
+    </header>
+    <main>
+        <section class="hero-section" id="hero">
+            <div class="container m-auto relative z-10" >
+                <div class="flex justify-center items-center">
+                    <img src="./img/LogoFindMe.png" class="imgLogo">
+                    <div style="margin-top: 5rem; width: 50%;">
+                        <p style="font-size: 4rem;" class="font-bold" >FIND ME! <br> Scouts <br>Dominicanos</p>
+                    </div>
+                    <div>
+                        <p class="btn-find-group" >Encuentra tu grupo</p>
+                    </div>
+                </div>
+                <br>               
+            </div>
+        </section>
+        <section class="about-us-section" id="about">
+            <div class="container md:mb-[70px] mb-8">
+                <h2 class="text-primary-100 font-graphie-bold mb-8">Acerca de</h2>
+                <div class="md:grid grid-cols-12 gap-x-16">
+                    <div class="col-span-6 md:mb-0 mb-6">
+                        <div class="h-full bg-base-white rounded-lg py-8 px-10" style="box-shadow: 6px 6px 8px 4px rgba(0, 0, 0, 0.2);">
+                            <h4 class="font-graphie-bold mb-6 md:text-left text-center" style="color: #ba1513;">¿Qué es Find Me?</h4>
+                            <p class="text-neutral-50 text-heading-5-md lg:text-heading-5-lg md:text-left text-center font-graphie-regular">
+                                Findme es un proyecto que busca poner al alcance de todos las informaciones de todos los grupos activos del país, para que él quiera aprender ubicar y como era más de los grupos que se encuentran dentro del movimiento scout de la Republica Dominicana
+                            </p>
+                        </div>
+                    </div>
+                    <div class="col-span-6">
+                        <div class="h-full bg-base-white rounded-lg py-8 px-10" style="box-shadow: 6px 6px 8px 4px rgba(0, 0, 0, 0.2);">
+                            <h4 class="font-graphie-bold mb-6 md:text-left text-center" style="color: #ba1513;">¿Quién puede participar?</h4>
+                            <p class="text-neutral-50 text-heading-5-md lg:text-heading-5-lg md:text-left text-center font-graphie-regular">
+                                Cualquier desarrollador de software, profesores y estudiantes de distintas universidades pueden participar. ¡El único requerimiento es tener ganas de aprender más!
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="counter-content">
+                <div class="container">
+                    <div class="md:grid grid-cols-3 lg:gap-x-16">
+                        <div class="md:mb-0 mb-4 h-full flex items-center text-base-white md:border-r border-base-white">
+                            <img src="/img/Two-Person.png" style="object-fit: cover; width: 3.8rem;" >
+                            <p class="text-body-1 ml-6 font-noto-sans font-bold">
+                                <span class="text-heading-4-md lg:text-heading-4-lg font-graphie-bold">30+</span><br> Grupos registrados
+                            </p>
+                        </div>
+                        <div class="lg:pr-16 md:px-5 md:mb-0 mb-4 h-ful flex items-center text-base-white md:border-r border-base-white">
+                            <img src="/img/Group-Person.png" style="object-fit: cover; width: 3.8rem;">
+                            <p class="text-body-1 ml-6 font-noto-sans font-bold">
+                                <span class="text-heading-4-md lg:text-heading-4-lg font-graphie-bold">250+</span><br> Scouts registrados
+                            </p>
+                        </div>
+                        <div class="lg:p-0 md:pl-5 h-full flex items-center text-base-white">
+                            <img src="/img/Folder-Marked.png" style="object-fit: cover; width: 3.8rem;">
+                            <p class="text-body-1 ml-6 font-noto-sans font-bold">
+                                <span class="text-heading-4-md lg:text-heading-4-lg font-graphie-bold">30</span><br> Años desde su fundacion
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="events-section" id="events">
+            <div class="container">
+                <h2 class="text-primary-100 font-bold mb-8">UN VISTAZO A LOS GRUPOS</h2>
+                <div class="carrousel flex ">
+                    <i class="fas fa-chevron-left flecha" id="fLeft" ></i>
+                    <nav class="event-handling" id="carrousel" style="overflow-x: hidden;">
+
+                    </nav>
+                    <i class="fas fa-chevron-right flecha" id="fRight"></i>
+                </div>
+                <div id="info_groups_container">
+                    <!-- <div class="group-info-card">
+                        <img src="./img/Logos/Grupo99.png" alt="">
+                        <div>
+                            <h1 class="group-info-title">GRUPO SCOUT 44</h1>
+                            <p class="group-info-name">Padre Emiliano Tardif</p>
+                            <span class="group-info-horario">2:00-5:00 PM</span>
+                        </div>
+                    </div>
+                    <div class="group-info-card
+                    ">
+                    <p class="panoleta-significado">Significado: Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas ratione itaque unde deleniti reprehenderit iusto ipsa tempore blanditiis autem explicabo officiis, dolore alias molestias cumque delectus labore, rem maxime magnam.</p>
+                    <img class="panoleta-img" src="./img/Pañoletas/G55.jpg" alt="" />
+                    </div>
+                    <h2 class="group-info-title">Ramas activas</h2>
+                    <div class="group-info-card">
+                        <img class="panoleta-img" src="./img/Logos/Caminantes 99.jpeg" alt="" />
+                        <div class="group-info-panoleta">
+                            <h3>Manada</h3>
+                            <ul>
+                                <li>Roja</li>
+                                <li>Azul</li>
+                                <li>Morada</li>
+                                <li>Verde</li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="group-info-card">
+                        <div class="group-info-panoleta">
+                            <h3>tropa</h3>
+                            <ul>
+                                <li>Cuervo</li>
+                                <li>Lobo</li>
+                                <li>Toro</li>
+                                <li>Liebre</li>
+                            </ul>
+                        </div>
+                        <img class="panoleta-img" src="./img/Logos/Caminantes126.png" alt="" />
+                    </div>
+                    <div class="group-info-card">
+                        <img class="panoleta-img" src="./img/Logos/Grupo2.jpg" alt="" />
+                        <div>
+                            <h3>Nombre de caminantes</h3>
+                            <p>Lema de caminantes</p>
+                        </div>
+                    </div>
+                    <div class="group-info-card">
+                        <img class="panoleta-img" src="./img/Logos/Clan44.png" alt="" />
+                        <div>
+                            <h3>Clan Los Caciques</h3>
+                            <p>Volviendo a nuestros Origenes</p>
+                        </div>
+                    </div> -->
+
+                </div>
+            </div>
+        </section>
+        <section class="location-section">
+            <div class="container">
+                <h2 class="text-primary-100 font-bold font-graphie-bold md:mb-10 mb-8">Ubícanos</h2>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3762.3070984555106!2d-70.68684148398134!3d19.442321986878877!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8eb1cf6f0a95c9f9%3A0x77ca6ffcce6b71a3!2sEdificio%20Padre%20Arroyo!5e0!3m2!1ses!2sdo!4v1666205630950!5m2!1ses!2sdo"
+                    loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+            </div>
+        </section>
+    </main>
+    <footer>
+        <div class="container lg:flex justify-between items-center">
+            <figure>
+                <img src="./img/LogoFindMe.png"  style="max-height: 75px;" alt="Barcamp" class="lg:m-0 mx-auto mb-4">
+            </figure>
+            <nav class="lg:block flex md:flex-row flex-col justify-center md:items-start items-center">
+                <a href="#hero" class="nav-item nav-item-secondary">Inicio</a>
+                <a href="#about" class="nav-item nav-item-secondary">Acerca de</a>
+                <a href="#unconferences" class="nav-item nav-item-secondary">Grupos</a>
+                <!-- <a href="#speakers" class="nav-item nav-item-secondary">Charlistas</a>
+                <a href="#sponsors" class="nav-item nav-item-secondary">Patrocinadores</a> -->
+                <a href="#!" class="nav-item nav-item-secondary conduct-button">Código de conducta</a>
+            </nav>
+        </div>
+        <hr class="border-secondary-80 md:my-10 my-8">
+        <div class="container flex justify-between items-center md:flex-row flex-col">
+            <div class="col-lg-2 col-md-4">
+                <a href="https://2022.barcamp.org.do/" target="_blank" class="nav-item nav-item-secondary">Ir a la Asociacion de Scouts Dominicana</a>
+            </div>
+            <p class="text-body-2 text-[#A0A0A0] md:mb-0 mb-4 md:text-left text-center font-noto-sans">Copyright © 2024 Bryant Reynoso | Website by <b class="text-[#FF7B47]">KATIÓN INTERACTIVE</b></p>
+            <nav>
+                <a href="https://instagram.com/barcamprd" target="_blank" class="text-heading-2-lg leading-none text-base-white mr-4"><i class="icon-instagram"></i></a>
+                <a href="https://www.facebook.com/barcamprd" target="_blank" class="text-heading-2-lg leading-none text-base-white mr-4"><i class="icon-facebook"></i></a>
+                <a href="https://twitter.com/BarCampRD" target="_blank" class="text-heading-2-lg leading-none text-base-white mr-4"><i class="icon-twitter"></i></a>
+                <a href="https://github.com/BarcampRD/" target="_blank" class="text-heading-2-lg leading-none text-base-white"><i class="icon-github"></i></a>
+            </nav>
+        </div>
+    </footer>
+    
+    <div class="modal confirmation-message-modal hidden">
+        <div class="modal-content">
+            <div class="modal-header">
+                <a href="javascript:;" class="btn-icon btn-solid-secondary btn-xsmall close-modal"><i class="icon-close"></i></a>
+            </div>
+            <div class="modal-body flex items-center">
+                <figure class="mr-8">
+                    <img src="./img/check.png" alt="Icon" class="w-[72px]">
+                </figure>
+                <div>
+                    <h2 class="mb-2 text-center">Registro exitoso</h2>
+                    <p class="text-center font-semibold">Tu participacion sido guardado <br class="md:block hidden"> con exito</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+
+
+    
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+    <script src="https://unpkg.com/isotope-layout@3/dist/isotope.pkgd.min.js"></script>
+    <script src="./js/grupos.js"></script>
+    <!-- <script src="./js/charlistas.js"></script> -->
+    <script src="./js/main.js"></script>
+</body>
+
+</html>
