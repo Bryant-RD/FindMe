@@ -2203,7 +2203,7 @@ body.modal-open{
   border-radius: 0.5rem;
   padding: 1rem;
   box-shadow: 6px 6px 8px 4px rgba(0, 0, 0, 0.2);
-  /* opacity: 0; */
+  opacity: 0;
   transform: translateY(50px);
   transition: opacity 0.8s cubic-bezier(0.68, -0.55, 0.27, 1.55),
               transform 0.8s cubic-bezier(0.68, -0.55, 0.27, 1.55);
@@ -2243,8 +2243,9 @@ body.modal-open{
 }
 
 .panoleta-img {
-  width: 25rem;
-  height: 15rem;
+  /* width: 25rem;
+  height: 15rem; */
+  width: 35%;
   background-color: #fff;
   border-radius: 0.5rem;
   

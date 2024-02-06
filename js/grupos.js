@@ -1,54 +1,3 @@
-// document.addEventListener("DOMContentLoaded", function () {
-//     const groupInfoCards = document.querySelectorAll(".group-info-card");
-  
-//     function checkVisibility() {
-//       const windowHeight = window.innerHeight;
-  
-//       groupInfoCards.forEach((card) => {
-//         const cardTop = card.getBoundingClientRect().top;
-  
-//         if (cardTop < windowHeight * 0.8) {
-//           card.classList.add("show");
-//         } else {
-//           card.classList.remove("show");
-//         }
-//       });
-//     }
-  
-//     window.addEventListener("scroll", function () {
-//       checkVisibility();
-//     });
-  
-//     // Verificar visibilidad al cargar la página
-//     checkVisibility();
-//   });
-
-
-
-
-
-
-
-
-
-
-
-
-
-  //   <div class="group-info-card">
-  //     <img class="panoleta-img" src="./img/Logos/Clan44.png" alt="" />
-  //     <div>
-  //         <h3>Clan Los Caciques</h3>
-  //         <p>Volviendo a nuestros Origenes</p>
-  //     </div>
-  //   </div>
-  
-  // `
-
-//------------------------------------------------------------------------
-
-  
-
 
 function ordenarPorNumeroGrupo(grupos) {
     return grupos.sort((a, b) => {
@@ -94,8 +43,9 @@ grupos_ordenados.map((grupo) => {
   carrousel_numeros.appendChild(num)      
 })
 
-carrousel_numeros.addEventListener('click', (e) => {
-  const numero_grupo = e.target.id
+
+const print_group = (e) => {
+  const numero_grupo = e.target.id ?? "1";
   console.log(numero_grupo);
 
   const grupo_seleccionado = grupos_ordenados.find(grupo => grupo.numero_grupo === numero_grupo);
@@ -124,7 +74,7 @@ carrousel_numeros.addEventListener('click', (e) => {
     console.log(grupo_seleccionado.seisenas);
 
   }
-  if (grupo_seleccionado.ramas.includes('tropa')) {
+  if (grupo_seleccionado.ramas.includes('tropa') && grupo_seleccionado.patrullas_tropa) {
     card_tropa.classList.add("group-info-card")
     // Supongamos que 'grupo_' es tu objeto del grupo
     card_tropa.innerHTML = 
@@ -164,7 +114,7 @@ carrousel_numeros.addEventListener('click', (e) => {
 
   grupo_container.innerHTML = `
   <div class="group-info-card">
-    <img src=${grupo_seleccionado.logo_grupo || "../img/Logos/logo_grupo_default.png"} alt="">
+    <img class="panoleta-img" src=${grupo_seleccionado.logo_grupo || "../img/Logos/logo_grupo_default.png"} alt="">
     <div>
         <h1 class="group-info-title">GRUPO SCOUT ${grupo_seleccionado.numero_grupo}</h1>
         <p class="group-info-name">${grupo_seleccionado.nombre}</p>
@@ -172,7 +122,7 @@ carrousel_numeros.addEventListener('click', (e) => {
     </div>
   </div>
   <div class="group-info-card ">
-    <p class="panoleta-significado">Significado: Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas ratione itaque unde deleniti reprehenderit iusto ipsa tempore blanditiis autem explicabo officiis, dolore alias molestias cumque delectus labore, rem maxime magnam.</p>
+    <p class="panoleta-significado">Significado: ${grupo_seleccionado.significado_panoleta || ""}</p>
     <img class="panoleta-img" src=${grupo_seleccionado.imagen_panoleta || "../img/Pañoletas/panoleta_default.jpg" } alt="" />
   </div>
   <h2 class="group-info-title">Ramas activas</h2>
@@ -183,22 +133,41 @@ carrousel_numeros.addEventListener('click', (e) => {
   grupo_container.appendChild(card_tropa)
   grupo_container.appendChild(card_caminantes)
   grupo_container.appendChild(card_clan)
-});
+}
 
-  //   <div class="group-info-card">
-  //     <div class="group-info-panoleta">
-  //         <h3>Manada</h3>
-  //         <ul>
-  //             <li>Roja</li>
-  //             <li>Azul</li>
-  //             <li>Morada</li>
-  //             <li>Verde</li>
-  //         </ul>
-  //     </div>
-  //     <img class="panoleta-img" src="./img/Logos/Caminantes126.jpg" alt="" />
-  //   </div>
+
+document.addEventListener("DOMContentLoaded", () => {
+  print_group(e)
+})
+
+carrousel_numeros.addEventListener('click', print_group(e));
 
 
 
+// document.addEventListener("DOMContentLoaded", function () {
 
 
+  function checkVisibility() {
+    const groupInfoCards = document.querySelectorAll(".group-info-card");
+    const windowHeight = window.innerHeight;
+
+    console.log(groupInfoCards);
+
+    groupInfoCards.forEach((card) => {
+      const cardTop = card.getBoundingClientRect().top;
+
+      if (cardTop < windowHeight * 0.8) {
+        card.classList.add("show");
+      } else {
+        card.classList.remove("show");
+      }
+    });
+  }
+
+  window.addEventListener("scroll", function () {
+    checkVisibility();
+  });
+
+  // Verificar visibilidad al cargar la página
+  checkVisibility();
+// });
