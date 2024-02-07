@@ -45,7 +45,7 @@ grupos_ordenados.map((grupo) => {
 
 
 const print_group = (e) => {
-  const numero_grupo = e.target.id ?? "1";
+  const numero_grupo = e.target.id ?? "01";
   console.log(numero_grupo);
 
   const grupo_seleccionado = grupos_ordenados.find(grupo => grupo.numero_grupo === numero_grupo);
@@ -136,11 +136,11 @@ const print_group = (e) => {
 }
 
 
-document.addEventListener("DOMContentLoaded", () => {
+document.addEventListener("DOMContentLoaded", (e) => {
   print_group(e)
 })
 
-carrousel_numeros.addEventListener('click', print_group(e));
+carrousel_numeros.addEventListener('click', (e) => print_group(e));
 
 
 
@@ -150,8 +150,6 @@ carrousel_numeros.addEventListener('click', print_group(e));
   function checkVisibility() {
     const groupInfoCards = document.querySelectorAll(".group-info-card");
     const windowHeight = window.innerHeight;
-
-    console.log(groupInfoCards);
 
     groupInfoCards.forEach((card) => {
       const cardTop = card.getBoundingClientRect().top;
