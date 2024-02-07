@@ -1373,64 +1373,7 @@ textarea.form-control{
   height: 100%;
   width: 100%;
 }
-.speaker-card .speaker-image img{
-  height: 100%;
-  width: 100%;
-  -o-object-fit: cover;
-     object-fit: cover;
-  -o-object-position: center;
-     object-position: center;
-}
-.speaker-card .speaker-information{
-  width: 100%;
-  position: absolute;
-  bottom: 0px;
-  z-index: 10;
-  border-top-width: 1px;
-  border-color: #000000;
-  --tw-border-opacity: 0.67;
-  background-color:#1f2243d3;
-  --tw-bg-opacity: 0.2;
-  padding: 1rem;
-  
-}
-.speaker-card .speaker-information h5, .speaker-card .speaker-information p, .speaker-card .speaker-information ul{
-  text-align: center;
-  --tw-text-opacity: 1;
-  color: rgb(255 255 255 / var(--tw-text-opacity));
-}
-.speaker-card .speaker-information h5{
-  margin-bottom: 0.5rem;
-  font-family: graphie-semibold;
-}
-.speaker-card .speaker-information p{
-  margin-bottom: 1rem;
-  font-family: Noto Sans, sans-serif;
-  font-size: 14px;
-  line-height: 16px;
-}
-.speaker-card .speaker-information ul{
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  font-size: 24px;
-  line-height: 32px;
-  line-height: 1;
-}
-.speaker-card .speaker-information ul li{
-  margin-right: 1.5rem;
-}
-.speaker-card .speaker-information ul li a{
-  display: block;
-  cursor: pointer;
-}
-.speaker-card .speaker-information ul li:last-child{
-  margin-right: 0px;
-}
-.speaker-card:hover .speaker-information{
-  background-color: #0000006b;
-  --tw-bg-opacity: 0.6;
-}
+
 .relative{
   position: relative;
 }
@@ -1754,6 +1697,7 @@ body.modal-open{
   --tw-bg-opacity: 0.4;
   padding-top: 2rem;
   padding-bottom: 2rem;
+  scroll-margin-top: 80px;
 }
 @media (min-width: 768px){
   .events-section{
@@ -2203,10 +2147,10 @@ body.modal-open{
   border-radius: 0.5rem;
   padding: 1rem;
   box-shadow: 6px 6px 8px 4px rgba(0, 0, 0, 0.2);
-  opacity: 0;
+  /* opacity: 0;
   transform: translateY(50px);
   transition: opacity 0.8s cubic-bezier(0.68, -0.55, 0.27, 1.55),
-              transform 0.8s cubic-bezier(0.68, -0.55, 0.27, 1.55);
+              transform 0.8s cubic-bezier(0.68, -0.55, 0.27, 1.55); */
 }
 .group-info-card.show {
   opacity: 1;
@@ -2243,8 +2187,8 @@ body.modal-open{
 }
 
 .panoleta-img {
-  /* width: 25rem;
-  height: 15rem; */
+  max-width: 15rem;
+  max-height: 15rem; 
   width: 35%;
   background-color: #fff;
   border-radius: 0.5rem;

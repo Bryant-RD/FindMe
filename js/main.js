@@ -56,7 +56,7 @@ $(document).ready(function() {
         $('.main-menu').toggleClass('show');
     });
 
-    $("header .nav-item").click(function(e) {
+    $(".nav-item").click(function(e) {
         if (this.hash !== "") {
             e.preventDefault();
             var hash = this.hash;

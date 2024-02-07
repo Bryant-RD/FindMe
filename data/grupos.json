@@ -20,11 +20,12 @@
                 "comunidad_caminantes": "Comunidad Anacona",
                 "clan": "Clan Montesino",
                 "tradiciones": "Como grupo, anualmente vamos a las actividades de la semana scout, el día de reyes llevamos regalos a niños huérfanos y nos presentamos todos los años en el día familiar scout, en Santiago",
-                "imagen_panoleta": "source",
-                "logo_manada": "",
-                "logo_tropa": "",
-                "logo_caminantes": "",
-                "logo_clan": ""
+                "imagen_panoleta": null,
+                "logo_manada": null,
+                "logo_tropa": null,
+                "logo_caminantes": null,
+                "logo_clan": null,
+                "logo_grupo": null
         },
         {
                 "numero_grupo": "24",
@@ -37,15 +38,16 @@
                         "tropa"
                 ],
                 "patrullas_tropa": null,
-"seisenas": null,
+                "seisenas": null,
                 "comunidad_caminantes": null,
                 "clan": null,
                 "tradiciones": "Si, porque nos gusta siempre aprender de nuevas experiencias",
-                "imagen_panoleta": "source",
-                "logo_manada": "",
-                "logo_tropa": "",
-                "logo_caminantes": "",
-                "logo_clan": ""
+                "imagen_panoleta": null,
+                "logo_manada": null,
+                "logo_tropa": null,
+                "logo_caminantes": null,
+                "logo_clan": null,
+                "logo_grupo": null
         },
         {
                 "numero_grupo": "03",
@@ -65,15 +67,16 @@
                         "Lobo",
                         "Ardilla"
                 ],
-"seisenas": [ "rojo", "verde", "azul", "amarillo"],
+                "seisenas": [ "rojo", "verde", "azul", "amarillo"],
                 "comunidad_caminantes": null,
                 "clan": null,
                 "tradiciones": "Asistimos a todas las actividades",
-                "imagen_panoleta": "source",
-                "logo_manada": "",
-                "logo_tropa": "",
-                "logo_caminantes": "",
-                "logo_clan": ""
+                "imagen_panoleta": "../img/Pañoletas/G3.jpg",
+                "logo_manada": null,
+                "logo_tropa": null,
+                "logo_caminantes": null,
+                "logo_clan": null,
+                "logo_grupo": null
         },
         {
                 "numero_grupo": "88",
@@ -99,11 +102,12 @@
                 "comunidad_caminantes": "Comunidad Enriquillo",
                 "clan": "Clan Camelot",
                 "tradiciones": "Si vamos algunos eventos nacionales no todos, los distritales casi no hacemos pero los pocos tambien intentamos ir",
-                "imagen_panoleta": "source",
-                "logo_manada": "",
-                "logo_tropa": "",
-                "logo_caminantes": "",
-                "logo_clan": ""
+                "imagen_panoleta": "../img/Pañoletas/G88.jpg",
+                "logo_manada": null,
+                "logo_tropa": null,
+                "logo_caminantes": null,
+                "logo_clan": "../img/Logos/Clan_88.png",
+                "logo_grupo": null
         },
         {
                 "numero_grupo": "126",
@@ -127,11 +131,12 @@
                 "comunidad_caminantes": "Asgard",
                 "clan": "Atabey",
                 "tradiciones": "Hacemos la fiesta de aniversario todos los años y cada 5 años hacemos un campamento o actividad especial, participamos en todas las actividades nacionles y distritales, no vamos todo el grupo pero siempre tratamos de que al menos un scout este alla representandonos.",
-                "imagen_panoleta": "source",
-                "logo_manada": "",
-                "logo_tropa": "",
-                "logo_caminantes": "",
-                "logo_clan": ""
+                "imagen_panoleta": null,
+                "logo_manada": null,
+                "logo_tropa": null,
+                "logo_caminantes": null,
+                "logo_clan": "../img/Logos/Clan_126.jpeg",
+                "logo_grupo": null
         },
         {
                 "numero_grupo": "99",
@@ -154,11 +159,12 @@
                 "comunidad_caminantes": "Comunidad Erhania",
                 "clan": "Clan Urano",
                 "tradiciones": "El desarrollo de los jóvenes se amplía al explorar fuera de cada reunión los sábados. Al dedicar tiempo a actividades y experiencias diferentes, como excursiones, voluntariado o aprendizaje de nuevas habilidades, los jóvenes tienen la oportunidad de crecer y expandir sus horizontes más allá de las actividades regulares del grupo. Esta exploración les brinda la oportunidad de descubrir nuevos intereses, desarrollar habilidades sociales y emocionales, y fortalecer su autoconfianza mientras se divierten y se conectan con el mundo que les rodea. Participamos en actividades y eventos como: Punto de flecha Canapas Campamento nacional Actividades internacionales (jamboree, moot, campamentos ) Foros Huellas Lecheton",
-                "imagen_panoleta": "source",
-                "logo_manada": "",
-                "logo_tropa": "",
-                "logo_caminantes": "",
-                "logo_clan": ""
+                "imagen_panoleta": "../img/Pañoletas/G99.jpg",
+                "logo_manada": null,
+                "logo_tropa": null,
+                "logo_caminantes": "../img/Logos/Caminantes 99.jpeg",
+                "logo_clan": null,
+                "logo_grupo": "../img/Logos/Grupo_99.png"
         },
         {
                 "numero_grupo": "48",
@@ -184,11 +190,12 @@
                 "comunidad_caminantes": null,
                 "clan": "Clan Hermano Agustin Enciso (CHAE)",
                 "tradiciones": "Hacer un campamento aniversario todos los años y dedicarlo a una persona que haya servido en el grupo, reconocer en ese campamento aniversario la familia scout del año, actividad navideña de cierre y despedida a los beneficiarios",
-                "imagen_panoleta": "source",
-                "logo_manada": "",
-                "logo_tropa": "",
-                "logo_caminantes": "",
-                "logo_clan": ""
+                "imagen_panoleta": "../img/Pañoletas/G48.jpg",
+                "logo_manada": "../img/Logos/Manada48.png",
+                "logo_tropa": null,
+                "logo_caminantes": null,
+                "logo_clan": "../img/Logos/Clan_48.jpeg",
+                "logo_grupo": "../img/Logos/Grupo_48.png"
         },
         {
                 "numero_grupo": "92",
@@ -204,15 +211,16 @@
                         "Clan"
                 ],
                 "patrullas_tropa": null,
-"seisenas": null,
+                "seisenas": null,
                 "comunidad_caminantes": "Comunidad de Gladiadores",
                 "clan": "Clan Axis Mundi",
                 "tradiciones": "Van a todas Nacionales y Distritales, y hacen cena navideña y de pasanoches",
-                "imagen_panoleta": "source",
-                "logo_manada": "",
-                "logo_tropa": "",
-                "logo_caminantes": "",
-                "logo_clan": ""
+                "imagen_panoleta": null,
+                "logo_manada": null,
+                "logo_tropa": null,
+                "logo_caminantes": null,
+                "logo_clan": null,
+                "logo_grupo": null
         },
         {
                 "numero_grupo": "28",
@@ -226,15 +234,16 @@
                         "Clan"
                 ],
                 "patrullas_tropa": null,
-"seisenas": null,
+                "seisenas": null,
                 "comunidad_caminantes": null,
                 "clan": "Los Titanes",
                 "tradiciones": "Somos un grupo muy apartado de las actividades del distrito ya que no nos tienen tan pendiente pues nosotros somos igual pues las actividades sólo toman en cuenta a los gripo del centro de la ciudad",
-                "imagen_panoleta": "source",
-                "logo_manada": "",
-                "logo_tropa": "",
-                "logo_caminantes": "",
-                "logo_clan": ""
+                "imagen_panoleta": null,
+                "logo_manada": null,
+                "logo_tropa": null,
+                "logo_caminantes": null,
+                "logo_clan": null,
+                "logo_grupo": null
         },
         {
                 "numero_grupo": "193",
@@ -260,11 +269,12 @@
                 "comunidad_caminantes": null,
                 "clan": "Clan del temblé (ich dien)",
                 "tradiciones": "El grupo suele ir a actividades disfrútales cómo punta de flechas y de más, también a campamentos nacionales, por lo regulares las tradiciones de nuestro grupo, son fogata en marzo, aguinaldo en diciembre y fogata de fin de año en diciembre también",
-                "imagen_panoleta": "source",
-                "logo_manada": "",
-                "logo_tropa": "",
-                "logo_caminantes": "",
-                "logo_clan": ""
+                "imagen_panoleta": null,
+                "logo_manada": null,
+                "logo_tropa": null,
+                "logo_caminantes": null,
+                "logo_clan": null,
+                "logo_grupo": null
         },
         {
                 "numero_grupo": "41",
@@ -281,11 +291,12 @@
                 "comunidad_caminantes": null,
                 "clan": null,
                 "tradiciones": "Desarrollo de los Beneficiados en el conocimiento de las tradiciones Scouts, Socializar con Jóvenes de edades similares, compartiendo los mismos intereses, Fomentar el espíritu de sana competencia entre los grupos,  Apoyo al Movimiento Scouts a nivel nacional,  Ser multiplicador del mundo Scout y lograr hombres y mujeres de bien para la sociedad Dominicana.",
-                "imagen_panoleta": "source",
-                "logo_manada": "",
-                "logo_tropa": "",
-                "logo_caminantes": "",
-                "logo_clan": ""
+                "imagen_panoleta": null,
+                "logo_manada": null,
+                "logo_tropa": null,
+                "logo_caminantes": null,
+                "logo_clan": null,
+                "logo_grupo": null
         },
         {
                 "numero_grupo": "49",
@@ -310,11 +321,12 @@
                 "comunidad_caminantes": null,
                 "clan": "Clan Aragon",
                 "tradiciones": "-Celebración día de las madres. -Celebración aniversario. -Celebración cena navideña. -Aguinaldo -Competencia de caretas. -Participación en actividades a las que lo invitan (Lecheton, etc.) -Tambien tradicion/costumbre era que cada año se hacia un cantito nuevo (ej el cantito de dame un 4, dame un 9...) y eso era tradicion porque cada año ese canto marcaba una generación.",
-                "imagen_panoleta": "source",
-                "logo_manada": "",
-                "logo_tropa": "",
-                "logo_caminantes": "",
-                "logo_clan": ""
+                "imagen_panoleta": null,
+                "logo_manada": null,
+                "logo_tropa": null,
+                "logo_caminantes": null,
+                "logo_clan": null,
+                "logo_grupo": null
         },
         {
                 "numero_grupo": "44",
@@ -339,11 +351,12 @@
                 "comunidad_caminantes": null,
                 "clan": "Los Caciques",
                 "tradiciones": null,
-                "imagen_panoleta": "source",
-                "logo_manada": "",
-                "logo_tropa": "",
-                "logo_caminantes": "",
-                "logo_clan": ""
+                "imagen_panoleta": "../img/Pañoletas/G44.jpg",
+                "logo_manada": "../img/Logos/Manada_44.png",
+                "logo_tropa": "../img/Logos/logo_tropaG44.png",
+                "logo_caminantes": "Fogata de grupo, Campamento de grupo, Cena navideña de grupo, participar en todas las actividades nacionales e internacionales posibles",
+                "logo_clan": "../img/Logos/Clan_44.png",
+                "logo_grupo": "../img/Logos/Logo_G44.png"
         },
         {
                 "numero_grupo": "46",
@@ -366,15 +379,16 @@
                         "Cobra",
                         "Buho"
                 ],
-"seisenas": [ "negro", "dorado", "rojo", "azul" ],
+                "seisenas": [ "negro", "dorado", "rojo", "azul" ],
                 "comunidad_caminantes": "Epsilon",
                 "clan": null,
                 "tradiciones": "Siempre asistimos porque es una manera pa que nuestros chicos se relacionen con otros grupos . Y en los mismos se nutren de nuevas informaciones",
-                "imagen_panoleta": "source",
-                "logo_manada": "",
-                "logo_tropa": "",
-                "logo_caminantes": "",
-                "logo_clan": ""
+                "imagen_panoleta": null,
+                "logo_manada": null,
+                "logo_tropa": null,
+                "logo_caminantes": "../img/Logos/Caminantes46.png",
+                "logo_clan": null,
+                "logo_grupo": null
         },
         {
                 "numero_grupo": "68",
@@ -401,10 +415,11 @@
                 "clan": "Clan Sir Gawain",
                 "tradiciones": "Misa y fogata por el día del fundador, campamento de grupo entre los meses de junio-agosto, acampadas durante el año y cena navideña grupal. Asistimos a actividades tanto distritales y nacionales siempre que podamos porque nos ayuda a aprender, a conocer otros scouts y a estrechar lazos de amistad y hermandad scout.",
                 "imagen_panoleta": "source",
-                "logo_manada": "",
-                "logo_tropa": "",
-                "logo_caminantes": "",
-                "logo_clan": ""
+                "logo_manada": null,
+                "logo_tropa": null,
+                "logo_caminantes": null,
+                "logo_clan": null,
+                "logo_grupo": null
         },
         {
                 "numero_grupo": "42",
@@ -417,15 +432,16 @@
                         "manada"
                 ],
                 "patrullas_tropa": null,
-"seisenas": null,
+                "seisenas": null,
                 "comunidad_caminantes": null,
                 "clan": null,
                 "tradiciones": " participar y sobre todo conocer.",
-                "imagen_panoleta": "source",
+                "imagen_panoleta": "../img/Pañoletas/G42.jpg",
                 "logo_manada": "",
                 "logo_tropa": "",
                 "logo_caminantes": "",
-                "logo_clan": ""
+                "logo_clan": "",
+                "logo_grupo": "../img/Logos/Grupo_42.jpg"
         },
         {
                 "numero_grupo": "13",
@@ -447,11 +463,12 @@
                 "comunidad_caminantes": null,
                 "clan": null,
                 "tradiciones": "Aniversario , cena navideña, encuentro regional familiar, campamentos nacionales, cursos de adiestramiento",
-                "imagen_panoleta": "source",
-                "logo_manada": "",
-                "logo_tropa": "",
-                "logo_caminantes": "",
-                "logo_clan": ""
+                "imagen_panoleta": null,
+                "logo_manada": null,
+                "logo_tropa": null,
+                "logo_caminantes": null,
+                "logo_clan": null,
+                "logo_grupo": "../img/Logos/Grupo_13.png"
         },
         {
                 "numero_grupo": "01",
@@ -470,11 +487,12 @@
                 "comunidad_caminantes": null,
                 "clan": null,
                 "tradiciones": "Unas de las tradiciones de nuestro grupo es tiro con arco y remo y canotaje y nosotros participamos en eventos nacionales como Distrital",
-                "imagen_panoleta": null,
+                "imagen_panoleta": "../img/Pañoletas/G1.jpg",
                 "logo_manada": null,
                 "logo_tropa": null,
                 "logo_caminantes": null,
-                "logo_clan": null
+                "logo_clan": null,
+                "logo_grupo": null
         },
         {
                 "numero_grupo": "02",
@@ -491,11 +509,12 @@
                 "comunidad_caminantes": null,
                 "clan": "Servidores Descalzos",
                 "tradiciones": "El grupo participa activamente de las actividades nacionales e internacionales que competan a las ramas que se encuentren activas en el momento",
-                "imagen_panoleta": "source",
-                "logo_manada": "",
-                "logo_tropa": "",
-                "logo_caminantes": "",
-                "logo_clan": ""
+                "imagen_panoleta": "../img/Pañoletas/G2.jpg",
+                "logo_manada": null,
+                "logo_tropa": null,
+                "logo_caminantes": null,
+                "logo_clan": null,
+                "logo_grupo": "../img/Logos/Grupo_2.jpg"
         },
         {
                 "numero_grupo": "16",
@@ -518,11 +537,12 @@
                 "comunidad_caminantes": "Pablo de Tarso",
                 "clan": null,
                 "tradiciones": "Solemos ir a las pasadías porque son muy divertidas y hacen actividades y dinámicas muy emocionantes y conciertos también. También participamos en las fogatas para poder conocer los diferentes grupos de nuestro distrito.",
-                "imagen_panoleta": "source",
-                "logo_manada": "",
-                "logo_tropa": "",
-                "logo_caminantes": "",
-                "logo_clan": ""
+                "imagen_panoleta": "../img/Pañoletas/G16.jpg",
+                "logo_manada": null,
+                "logo_tropa": null,
+                "logo_caminantes": null,
+                "logo_clan": null,
+                "logo_grupo": "../img/Logos/Grupo_16.jpg"
         },
         {
                 "numero_grupo": "23",
@@ -546,11 +566,12 @@
                 "comunidad_caminantes": "LEXSO",
                 "clan": "Clan Fénix",
                 "tradiciones": "Como tradiciones tenemos nuestro campamento de verano CIBAYERI, anualmente. La bicicletada grupal a diferentes destinos, anualmente. Pasadía grupal por aniversario en diciembre, anualmente.",
-                "imagen_panoleta": "source",
-                "logo_manada": "",
-                "logo_tropa": "",
-                "logo_caminantes": "",
-                "logo_clan": ""
+                "imagen_panoleta": "../img/Pañoletas/G23.jpg",
+                "logo_manada": null,
+                "logo_tropa": null,
+                "logo_caminantes": null,
+                "logo_clan": "../img/Logos/Clan_23.png",
+                "logo_grupo": "../img/Logos/Grupo_23.jpeg"
         },
         {
                 "numero_grupo": "55",
@@ -581,11 +602,12 @@
                 "comunidad_caminantes": null,
                 "clan": "Clan Rover Enriquillo",
                 "tradiciones": "El grupo Scout #55, suele participar en todos los eventos Distritales y/o Nacionales, ya que siempre ha estado motivado en conocer nuevos hermanos Scouts y vivir nuevas experiencias!",
-                "imagen_panoleta": "source",
-                "logo_manada": "",
-                "logo_tropa": "",
-                "logo_caminantes": "",
-                "logo_clan": ""
+                "imagen_panoleta": "../img/Pañoletas/G55.jpg",
+                "logo_manada": null,
+                "logo_tropa": null,
+                "logo_caminantes": null,
+                "logo_clan": "../img/Logos/Clan_55.jpg",
+                "logo_grupo": "../img/Logos/Grupo_55.jpg"
         },
         {
                 "numero_grupo": "97",
@@ -608,11 +630,12 @@
                 "comunidad_caminantes": null,
                 "clan": "Caonabo",
                 "tradiciones": "cada vez que se nos presenta la oportunidad intentamos participar de las actividades que nos ofrece la asociación de scouts dominicanos, simple a los chicos les emociona compartir con el resto de grupos y obtener nuevos aprendizajes, al ser un grupo alejado las actividades así son un gran apoyo para nosotros en la socialización y compañerismo.",
-                "imagen_panoleta": "source",
-                "logo_manada": "",
-                "logo_tropa": "",
-                "logo_caminantes": "",
-                "logo_clan": ""
+                "imagen_panoleta": "../img/Pañoletas/G97.jpg",
+                "logo_manada": null,
+                "logo_tropa": null,
+                "logo_caminantes": null,
+                "logo_clan": "../img/Logos/Clan_97.png",
+                "logo_grupo": "../img/Logos/Grupo_97.jpg"
         },
         {
                 "numero_grupo": "34",
@@ -626,7 +649,7 @@
                         "tropa",
                         "Clan"
                 ],
-"seisenas": [ "negro", "azul", "morado" ],
+                "seisenas": [ "negro", "azul", "morado" ],
                 "patrullas_tropa": [
                         "Pantera",
                         "Leon",
@@ -636,11 +659,12 @@
                 "comunidad_caminantes": null,
                 "clan": "Clan Rover José Pal Campos",
                 "tradiciones": "Anualmente, el grupo realiza un campamento en conmemoración de la fundación del mismo.",
-                "imagen_panoleta": "source",
-                "logo_manada": "",
-                "logo_tropa": "",
-                "logo_caminantes": "",
-                "logo_clan": ""
+                "imagen_panoleta": "../img/Pañoletas/G34.jpg",
+                "logo_manada": null,
+                "logo_tropa": null,
+                "logo_caminantes": null,
+                "logo_clan": null,
+                "logo_grupo": "../img/Logos/Grupo_34.png"
         },
         {
                 "numero_grupo": "210",
@@ -659,15 +683,16 @@
                         "Escorpion",
                         "Jaguar"
                 ],
-"seisenas": null,
+                "seisenas": null,
                 "comunidad_caminantes": "Argentumdraco",
                 "clan": null,
                 "tradiciones": "Lechetón limpieza de playas,Campamentos nacionales Campamento grupal Para tener un mayor conocimiento de aprender cosas nuevas, lugares nuevos y personas nuevas",
-                "imagen_panoleta": "source",
-                "logo_manada": "",
-                "logo_tropa": "",
-                "logo_caminantes": "",
-                "logo_clan": ""
+                "imagen_panoleta": "../img/Pañoletas/Grupo210.jpg",
+                "logo_manada": null,
+                "logo_tropa": null,
+                "logo_caminantes": null,
+                "logo_clan": null,
+                "logo_grupo": null
         },
         {
                 "numero_grupo": "106",
@@ -694,10 +719,11 @@
                 "comunidad_caminantes": "Comunidad Martin Luther King, Jr.",
                 "clan": "Clan Meerut.",
                 "tradiciones": "Somos un grupo de respeto y tradición. Solemos apoyar eventos distritales y nacionales. Como grupo anualmente participamos en los desfiles, celebramos la semana scout, realizamos campamentos de grupo, fogatas ceremoniales, y fiesta navideña.",
-                "imagen_panoleta": "source",
-                "logo_manada": "",
-                "logo_tropa": "",
-                "logo_caminantes": "",
-                "logo_clan": ""
+                "imagen_panoleta": "../img/Pañoletas",
+                "logo_manada": null,
+                "logo_tropa": null,
+                "logo_caminantes": null,
+                "logo_clan": null,
+                "logo_grupo": null
         }
 ]
