@@ -20,7 +20,6 @@ const formatListAsHTML = (lista) => lista.map(item => `<li>${item}</li>`).join('
 http.onreadystatechange = () => {
   if (http.readyState == 4 && http.status == 200) {
     datos = JSON.parse(http.response)
-    // console.log(datos);
   }
 }
 
@@ -29,7 +28,6 @@ http.open('get', '../data/grupos.json', false);
 
 http.send();
 
-console.log(datos);
 
 
 grupos_ordenados = ordenarPorNumeroGrupo(datos);
@@ -46,16 +44,16 @@ grupos_ordenados.map((grupo) => {
 
 const print_group = (e) => {
   const numero_grupo = e.target.id ?? "01";
-  console.log(numero_grupo);
 
   const grupo_seleccionado = grupos_ordenados.find(grupo => grupo.numero_grupo === numero_grupo);
   console.log(grupo_seleccionado);
 
   const card_manada = document.createElement('div');
   const card_tropa = document.createElement('div');
-  const card_caminantes = document.createElement('div')
-  const card_clan = document.createElement('div')
-
+  const card_caminantes = document.createElement('div');
+  const card_clan = document.createElement('div');
+  const mapa = document.createElement('div');
+ console.log(mapa);
   if (grupo_seleccionado.ramas.includes('manada') && grupo_seleccionado.seisenas) {
     
     card_manada.classList.add("group-info-card")
@@ -70,9 +68,6 @@ const print_group = (e) => {
             </ul>
         </div>
     `;
-
-    console.log(grupo_seleccionado.seisenas);
-
   }
   if (grupo_seleccionado.ramas.includes('tropa') && grupo_seleccionado.patrullas_tropa) {
     card_tropa.classList.add("group-info-card")
@@ -87,13 +82,11 @@ const print_group = (e) => {
         </div>
         <img class="panoleta-img" src=${grupo_seleccionado.logo_tropa || "../img/Logos/logo_tropa_default.jpg"} alt="" />
     `;
-
-    console.log(grupo_seleccionado.patrullas_tropa);
   }
   if (grupo_seleccionado.comunidad_caminantes) {
     card_caminantes.classList.add("group-info-card")
     card_caminantes.innerHTML = `
-      <img class="panoleta-img" src=${grupo_seleccionado.logo_caminantes || "../img/Logos/logo_tropa_default.jpg"} alt="" />
+      <img class="panoleta-img" src=${grupo_seleccionado.logo_caminantes || "../img/Logos/logo_caminantes_default.svg"} alt="" />
       <div>
           <h2>Comunidad de caminantes <h2/>
           <h3>${grupo_seleccionado.comunidad_caminantes}</h3>
@@ -103,7 +96,7 @@ const print_group = (e) => {
   if (grupo_seleccionado.clan) {
     card_clan.classList.add("group-info-card")
     card_clan.innerHTML = `
-      <img class="panoleta-img" src=${grupo_seleccionado.logo_clan || "../img/Logos/logo_tropa_default.jpg"} alt="" />
+      <img class="panoleta-img" src=${grupo_seleccionado.logo_clan || "../img/Logos/logo_clan_default.jpg"} alt="" />
       <div>
           <h2>Clan Rover <h2/>
           <h3>${grupo_seleccionado.clan}</h3>
@@ -127,28 +120,39 @@ const print_group = (e) => {
   <h2 class="group-info-title">Ramas activas</h2>
   `;
 
+  mapa.innerHTML = `
+  <h2 class="group-info-title">Ubicacion</h2>
+  <div id="map"></div>
+  `
+
+
+
   grupo_container.appendChild(card_manada)
   grupo_container.appendChild(card_tropa)
   grupo_container.appendChild(card_caminantes)
   grupo_container.appendChild(card_clan)
+  grupo_container.appendChild(mapa);
 
 
+  let zoom = grupo_seleccionado.coordenadas.latitud == null ? 8 : 15
 
-  // Definir las coordenadas del nuevo lugar
-  var nuevaLatitud = 19.453066372838396; //, -70.69274045767158
-  var nuevaLongitud = -70.69274045767158;
 
-  // Generar el código HTML del iframe con las nuevas coordenadas
-  var iframeCodigo = `
-      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3762.3070984555106!2d${nuevaLongitud}!3d${nuevaLatitud}!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8eb1cf6f0a95c9f9%3A0x77ca6ffcce6b71a3!2sEdificio%20Padre%20Arroyo!5e0!3m2!1ses!2sdo!4v1666205630950!5m2!1ses!2sdo"
-          loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-  `;
+  var map = L.map('map').setView([grupo_seleccionado.coordenadas.latitud || 19.0543902157619 ,grupo_seleccionado.coordenadas.longitud || -71.00575078105187], zoom);
+  L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+  maxZoom: 19,
+  attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+  }).addTo(map);
 
-  // Insertar el código HTML generado en el documento
-  document.getElementById('map_container').innerHTML = `
-      <h2 class="text-primary-100 font-bold font-graphie-bold md:mb-10 mb-8">Ubícanos</h2>
-      ${iframeCodigo}
-  `;
+  var marker = L.marker([grupo_seleccionado.coordenadas.latitud || 19.453292125578553 ,grupo_seleccionado.coordenadas.longitud || -70.69261710343795]).addTo(map);
+
+  let text_popup = `<b>Grupo Scout #${grupo_seleccionado.numero_grupo}</b><br>${grupo_seleccionado.nombre || ""}`
+  if (grupo_seleccionado.coordenadas.latitud == null) {
+    text_popup = `<b>Oficina Scout Regional Norte</b>`
+    var marker_sd = L.marker([18.46635983443715, -69.89406495557179]).addTo(map);
+    marker_sd.bindPopup(`<b>Asociacion de Scouts Dominicanos</b>`).openPopup();
+  }
+
+  marker.bindPopup(text_popup).openPopup();
 }
 
 
@@ -169,35 +173,8 @@ document.addEventListener("DOMContentLoaded", (e) => {
           behavior: 'smooth'
       });
   });
-})
+});
 
 
 carrousel_numeros.addEventListener('click', (e) => print_group(e));
 
-
-
-// document.addEventListener("DOMContentLoaded", function () {
-
-
-//   function checkVisibility() {
-//     const groupInfoCards = document.querySelectorAll(".group-info-card");
-//     const windowHeight = window.innerHeight;
-
-//     groupInfoCards.forEach((card) => {
-//       const cardTop = card.getBoundingClientRect().top;
-
-//       if (cardTop < windowHeight * 0.5) {
-//         card.classList.add("show");
-//       } else {
-//         card.classList.remove("show");
-//       }
-//     });
-//   }
-
-//   window.addEventListener("scroll", function () {
-//     checkVisibility();
-//   });
-
-//   // Verificar visibilidad al cargar la página
-//   checkVisibility();
-// // });

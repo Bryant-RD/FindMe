@@ -25,7 +25,10 @@
                 "logo_tropa": null,
                 "logo_caminantes": null,
                 "logo_clan": null,
-                "logo_grupo": null
+                "logo_grupo": null,
+                "coordenadas": {"latitud": 18.488241683637355
+                , "longitud": -69.87013974012396
+        }
         },
         {
                 "numero_grupo": "24",
@@ -47,7 +50,8 @@
                 "logo_tropa": null,
                 "logo_caminantes": null,
                 "logo_clan": null,
-                "logo_grupo": null
+                "logo_grupo": null,
+                "coordenadas": {"latitud": null, "longitud": null}
         },
         {
                 "numero_grupo": "03",
@@ -76,7 +80,8 @@
                 "logo_tropa": null,
                 "logo_caminantes": null,
                 "logo_clan": null,
-                "logo_grupo": null
+                "logo_grupo": null,
+                "coordenadas": {"latitud": 19.730935044958883 , "longitud": -70.60186803750904}
         },
         {
                 "numero_grupo": "88",
@@ -107,7 +112,9 @@
                 "logo_tropa": null,
                 "logo_caminantes": null,
                 "logo_clan": "../img/Logos/Clan_88.png",
-                "logo_grupo": null
+                "logo_grupo": null,
+                "coordenadas": {"latitud": 19.2820922
+                , "longitud": -70.2445489}
         },
         {
                 "numero_grupo": "126",
@@ -136,7 +143,8 @@
                 "logo_tropa": null,
                 "logo_caminantes": null,
                 "logo_clan": "../img/Logos/Clan_126.jpeg",
-                "logo_grupo": null
+                "logo_grupo": null,
+                "coordenadas": {"latitud": 18.478085164135177, "longitud": -69.96014800864003}
         },
         {
                 "numero_grupo": "99",
@@ -164,7 +172,8 @@
                 "logo_tropa": null,
                 "logo_caminantes": "../img/Logos/Caminantes 99.jpeg",
                 "logo_clan": null,
-                "logo_grupo": "../img/Logos/Grupo_99.png"
+                "logo_grupo": "../img/Logos/Grupo_99.png",
+                "coordenadas": {"latitud": 18.476725468657225, "longitud": -69.963219499581}
         },
         {
                 "numero_grupo": "48",
@@ -195,7 +204,10 @@
                 "logo_tropa": null,
                 "logo_caminantes": null,
                 "logo_clan": "../img/Logos/Clan_48.jpeg",
-                "logo_grupo": "../img/Logos/Grupo_48.png"
+                "logo_grupo": "../img/Logos/Grupo_48.png",
+                "coordenadas": {"latitud": 19.45797519644581
+                , "longitud": -70.69286768787157
+        }
         },
         {
                 "numero_grupo": "92",
@@ -220,7 +232,10 @@
                 "logo_tropa": null,
                 "logo_caminantes": null,
                 "logo_clan": null,
-                "logo_grupo": null
+                "logo_grupo": null,
+                "coordenadas": {"latitud": 19.2317784
+                , "longitud": -70.5186843
+        }
         },
         {
                 "numero_grupo": "28",
@@ -243,7 +258,9 @@
                 "logo_tropa": null,
                 "logo_caminantes": null,
                 "logo_clan": null,
-                "logo_grupo": null
+                "logo_grupo": null,
+                "coordenadas": {"latitud": 19.326942701783082
+                , "longitud": -70.69948671907558}
         },
         {
                 "numero_grupo": "193",
@@ -274,7 +291,8 @@
                 "logo_tropa": null,
                 "logo_caminantes": null,
                 "logo_clan": null,
-                "logo_grupo": null
+                "logo_grupo": null,
+                "coordenadas": {"latitud": 19.45723193862782, "longitud": -70.71242265637699}
         },
         {
                 "numero_grupo": "41",
@@ -296,7 +314,8 @@
                 "logo_tropa": null,
                 "logo_caminantes": null,
                 "logo_clan": null,
-                "logo_grupo": null
+                "logo_grupo": null,
+                "coordenadas": {"latitud": 19.47951621059453, "longitud": -70.65065677032507}
         },
         {
                 "numero_grupo": "49",
@@ -326,7 +345,10 @@
                 "logo_tropa": null,
                 "logo_caminantes": null,
                 "logo_clan": null,
-                "logo_grupo": null
+                "logo_grupo": null,
+                "coordenadas": {"latitud": 19.453344663144485
+                , "longitud": -70.7079584614454
+        }
         },
         {
                 "numero_grupo": "44",
@@ -356,7 +378,8 @@
                 "logo_tropa": "../img/Logos/logo_tropaG44.png",
                 "logo_caminantes": "Fogata de grupo, Campamento de grupo, Cena navideña de grupo, participar en todas las actividades nacionales e internacionales posibles",
                 "logo_clan": "../img/Logos/Clan_44.png",
-                "logo_grupo": "../img/Logos/Logo_G44.png"
+                "logo_grupo": "../img/Logos/Logo_G44.png",
+                "coordenadas": {"latitud": 19.41523892270558, "longitud": -70.70139731545754}
         },
         {
                 "numero_grupo": "46",
@@ -388,7 +411,10 @@
                 "logo_tropa": null,
                 "logo_caminantes": "../img/Logos/Caminantes46.png",
                 "logo_clan": null,
-                "logo_grupo": null
+                "logo_grupo": null,
+                "coordenadas": {"latitud": 19.454681369359847
+                , "longitud": -70.69464222180818
+                }
         },
         {
                 "numero_grupo": "68",
@@ -419,7 +445,10 @@
                 "logo_tropa": null,
                 "logo_caminantes": null,
                 "logo_clan": null,
-                "logo_grupo": null
+                "logo_grupo": null,
+                "coordenadas": {"latitud": 19.3920264
+                , "longitud":  -70.5243949
+        }
         },
         {
                 "numero_grupo": "42",
@@ -441,7 +470,8 @@
                 "logo_tropa": "",
                 "logo_caminantes": "",
                 "logo_clan": "",
-                "logo_grupo": "../img/Logos/Grupo_42.jpg"
+                "logo_grupo": "../img/Logos/Grupo_42.jpg",
+                "coordenadas": {"latitud": 19.49523072910654, "longitud": -70.70119660960636}
         },
         {
                 "numero_grupo": "13",
@@ -468,7 +498,8 @@
                 "logo_tropa": null,
                 "logo_caminantes": null,
                 "logo_clan": null,
-                "logo_grupo": "../img/Logos/Grupo_13.png"
+                "logo_grupo": "../img/Logos/Grupo_13.png",
+                "coordenadas": {"latitud": 19.2160509, "longitud": -70.5312020}
         },
         {
                 "numero_grupo": "01",
@@ -492,7 +523,8 @@
                 "logo_tropa": null,
                 "logo_caminantes": null,
                 "logo_clan": null,
-                "logo_grupo": null
+                "logo_grupo": null,
+                "coordenadas": {"latitud": 18.452647264823497, "longitud": -69.31195694386255}
         },
         {
                 "numero_grupo": "02",
@@ -514,7 +546,9 @@
                 "logo_tropa": null,
                 "logo_caminantes": null,
                 "logo_clan": null,
-                "logo_grupo": "../img/Logos/Grupo_2.jpg"
+                "logo_grupo": "../img/Logos/Grupo_2.jpg",
+                "coordenadas": {"latitud": 18.503473592608263, "longitud": -69.82367799424547
+        }
         },
         {
                 "numero_grupo": "16",
@@ -542,7 +576,10 @@
                 "logo_tropa": null,
                 "logo_caminantes": null,
                 "logo_clan": null,
-                "logo_grupo": "../img/Logos/Grupo_16.jpg"
+                "logo_grupo": "../img/Logos/Grupo_16.jpg",
+                "coordenadas": {"latitud": 19.42896753554817
+                , "longitud": -70.59659568535162
+        }
         },
         {
                 "numero_grupo": "23",
@@ -571,7 +608,10 @@
                 "logo_tropa": null,
                 "logo_caminantes": null,
                 "logo_clan": "../img/Logos/Clan_23.png",
-                "logo_grupo": "../img/Logos/Grupo_23.jpeg"
+                "logo_grupo": "../img/Logos/Grupo_23.jpeg",
+                "coordenadas": {"latitud": 18.474475883331415
+                , "longitud": -69.28846229963884
+        }
         },
         {
                 "numero_grupo": "55",
@@ -607,7 +647,8 @@
                 "logo_tropa": null,
                 "logo_caminantes": null,
                 "logo_clan": "../img/Logos/Clan_55.jpg",
-                "logo_grupo": "../img/Logos/Grupo_55.jpg"
+                "logo_grupo": "../img/Logos/Grupo_55.jpg",
+                "coordenadas": {"latitud": 19.45328200921647, "longitud": -70.69252054399026}
         },
         {
                 "numero_grupo": "97",
@@ -635,7 +676,10 @@
                 "logo_tropa": null,
                 "logo_caminantes": null,
                 "logo_clan": "../img/Logos/Clan_97.png",
-                "logo_grupo": "../img/Logos/Grupo_97.jpg"
+                "logo_grupo": "../img/Logos/Grupo_97.jpg",
+                "coordenadas": {"latitud": 19.337368036384635
+                , "longitud": -70.9386552777818
+        }
         },
         {
                 "numero_grupo": "34",
@@ -664,7 +708,8 @@
                 "logo_tropa": null,
                 "logo_caminantes": null,
                 "logo_clan": null,
-                "logo_grupo": "../img/Logos/Grupo_34.png"
+                "logo_grupo": "../img/Logos/Grupo_34.png",
+                "coordenadas": {"latitud": 19.46623197683827, "longitud": -70.69871746310733}
         },
         {
                 "numero_grupo": "210",
@@ -692,7 +737,9 @@
                 "logo_tropa": null,
                 "logo_caminantes": null,
                 "logo_clan": null,
-                "logo_grupo": null
+                "logo_grupo": null,
+                "coordenadas": {"latitud": 18.46859499160359
+                , "longitud": -69.80978553558226}
         },
         {
                 "numero_grupo": "106",
@@ -719,11 +766,79 @@
                 "comunidad_caminantes": "Comunidad Martin Luther King, Jr.",
                 "clan": "Clan Meerut.",
                 "tradiciones": "Somos un grupo de respeto y tradición. Solemos apoyar eventos distritales y nacionales. Como grupo anualmente participamos en los desfiles, celebramos la semana scout, realizamos campamentos de grupo, fogatas ceremoniales, y fiesta navideña.",
-                "imagen_panoleta": "../img/Pañoletas",
+                "imagen_panoleta": null,
                 "logo_manada": null,
                 "logo_tropa": null,
                 "logo_caminantes": null,
                 "logo_clan": null,
-                "logo_grupo": null
+                "logo_grupo": null,
+                "coordenadas": {"latitud": 19.794585965817543, "longitud": -70.68804510566481}
+        },
+        {
+                "numero_grupo": "203",
+                "nombre": "Grupo Scout 203",
+                "horario": "4:00 PM a 6:00PM",
+                "lugar_reunion": "Parque Las Sombrillas Montellano",
+                "historia": "Mikail Campos y Rafael Dgo. Hdez fueron los fundadores",
+                "significado_panoleta": "Amarillo la caña, rojo la sangre de los Patriotas y cinta marron la tierra",
+                "ramas": [
+                        "manada",
+                        "tropa"
+ 
+                ],
+                "patrullas_tropa": [
+                        "Cuervo",
+                        "Toro",
+                        "Paloma"
+                ],
+                "seisenas": [ "amarillo", "Rojo", "Rosado", "Azul", "Verde" ],
+                "comunidad_caminantes": null,
+                "clan": null,
+                "tradiciones": "Asistimos a todas las actividades",
+                "imagen_panoleta": "../img/Pañoletas/G203.jpg",
+                "logo_manada": null,
+                "logo_tropa": null,
+                "logo_caminantes": null,
+                "logo_clan": null,
+                "logo_grupo": null,
+                "coordenadas": {
+                        "latitud": 19.732385289033616, "longitud": -70.59980193372499
+                }
+        },
+        {
+                "numero_grupo": "47",
+                "nombre": "Mary Arias, Grupo 47 Padre Fortin",
+                "horario": "3:00 PM",
+                "lugar_reunion": "Colegio Padre Fortin",
+                "historia": "El grupo 47 Padre Fortín se fundó el 15 de Mayo de 1997 en Santiago de los Caballeros, con manada y tropa, siendo las primeras cuatro patrullas Cuervo, Iguana, Manatí y Carpintero. El grupo fue formado y dirigido por Leonardo Despradel, Ormandi Santana e Irving Peña.",
+                "significado_panoleta": "Esperanza, luz y paz sobre la tierra.",
+                "ramas": [
+                        "manada",
+                        "tropa",
+                        "Caminantes",
+                        "Clan"
+                ],
+                "patrullas_tropa": [
+                        "Cuervo",
+                        "Oso",
+                        "Cobra",
+                        "Puma",
+                        "Lince",
+                        "Leopardo",
+                        "Lobo"
+                ],
+                "seisenas": [ "Amarillo", "Blanca" ,"Morada", "Roja", "Azul", "Verde" ],
+                "comunidad_caminantes": "Comunidad Elementus",
+                "clan": "Clan Kastellum: La fortaleza está en el espíritu.",
+                "tradiciones": "Tradiciones del Grupo: Su grupo suele ir a eventos/actividades distritales o nacionales. Decir el porqué (detalladamente) \n Misa, fogata y campamento aniversario. Campamentos de técnicas, campamentos rodantes, fogata de fin de año, Cena de Navidad.",
+                "imagen_panoleta": "../img/Pañoletas/Grupo 47.jpg",
+                "logo_manada": null,
+                "logo_tropa": null,
+                "logo_caminantes": "../img/Logos/Caminates47.png",
+                "logo_clan": "../img/Logos/Clan_47.jpg",
+                "logo_grupo": "../img/Logos/Grupo_47.png",
+                "coordenadas": {
+                        "latitud": 19.457655245775047, "longitud": -70.6822965874925
+                }
         }
 ]
